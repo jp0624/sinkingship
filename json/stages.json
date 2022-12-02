@@ -1,0 +1,3702 @@
+{
+  "site": [
+    {
+      "background": true,
+      "scenes": [
+        {
+          "details": {
+            "name": "home",
+            "initial_scene": true,
+            "background": true
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "sun layer",
+                "depth": "0.1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "sun glare",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Sun_Glare.png"
+                  },
+                  "position": {
+                    "x": 100,
+                    "y": 0
+                  },
+                  "anchor": {
+                    "x": 0.9,
+                    "y": 0.15
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "flicker"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "Bubble Bar",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Trans Bar",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/temp/redbar.jpg"
+                  },
+                  "position": {
+                    "x": 50,
+                    "y": 115
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.5,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.4,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.3,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.2,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.1,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0.1,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0.2,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0.3,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0.4,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 0.05,
+                      "endAlpha": 0,
+                      "radius": 200,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": 0.5,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "sinking",
+                      "ease": "false",
+                      "sink_point_set": [
+                        {
+                          "scroll": 0,
+                          "position": {
+                            "x": 0.5,
+                            "y": 1.25
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 5,
+                          "position": {
+                            "x": 0.5,
+                            "y": 1.25
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clouds layer3",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "far background clouds",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/global/bg-transistion.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": "72"
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "10"
+                  },
+                  "effects": []
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clouds layer3",
+                "depth": "-0.1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Clouds in top left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Clouds_Wispy.png"
+                  },
+                  "position": {
+                    "x": "40",
+                    "y": "30"
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.025,
+                        "y": 0.05
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "far background clouds",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/clouds5.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": "57"
+                  },
+                  "size": {
+                    "w": "120",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.025,
+                        "y": 0.05
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clouds layer12",
+                "depth": "0.4"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "two far back clouds - left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Clouds_Small1.png"
+                  },
+                  "position": {
+                    "x": "23",
+                    "y": "12"
+                  },
+                  "size": {
+                    "w": "30",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.2,
+                        "y": 0.2
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "two far back clouds - right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Clouds_Small2.png"
+                  },
+                  "position": {
+                    "x": "70",
+                    "y": "8"
+                  },
+                  "size": {
+                    "w": "30",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.2,
+                        "y": 0.2
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clouds layer20",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "left animal clouds",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Clouds_Left.png"
+                  },
+                  "position": {
+                    "x": "10",
+                    "y": "30"
+                  },
+                  "size": {
+                    "w": "70",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.1,
+                        "y": 0.075
+                      },
+                      "multiplier": {
+                        "x": 5,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "right animal clouds",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Clouds_Right.png"
+                  },
+                  "position": {
+                    "x": "85",
+                    "y": "30"
+                  },
+                  "size": {
+                    "w": "55",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.1,
+                        "y": 0.075
+                      }
+                    },
+                    {
+                      "type": "pan",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "front",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "wave",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Island_Left.png"
+                  },
+                  "position": {
+                    "x": "0",
+                    "y": "68"
+                  },
+                  "size": {
+                    "w": "33",
+                    "h": "auto"
+                  },
+                  "anchor": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "effects": [
+                    {
+                      "type": "sinking",
+                      "ease": "false",
+                      "sink_point_set": [
+                        {
+                          "scroll": 0,
+                          "position": {
+                            "x": 0,
+                            "y": 0.73
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 1.5,
+                          "position": {
+                            "x": -0.05,
+                            "y": -0.77
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        }
+                      ]
+                    }
+                  ],
+                  "filters": []
+                },
+                {
+                  "details": {
+                    "name": "wave",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/Island_Right.png"
+                  },
+                  "position": {
+                    "x": "100",
+                    "y": "68"
+                  },
+                  "size": {
+                    "w": "35",
+                    "h": "auto"
+                  },
+                  "anchor": {
+                    "x": 1,
+                    "y": 1
+                  },
+                  "effects": [
+                    {
+                      "type": "sinking",
+                      "ease": "false",
+                      "sink_point_set": [
+                        {
+                          "scroll": 0,
+                          "position": {
+                            "x": 1,
+                            "y": 0.73
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 1.5,
+                          "position": {
+                            "x": 1.05,
+                            "y": -0.77
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        }
+                      ]
+                    }
+                  ],
+                  "filters": []
+                },
+                {
+                  "details": {
+                    "name": "wave",
+                    "depth": "0",
+                    "type": "snake",
+                    "src": "img/scenes/home/Rope_Back.png",
+                    "waveOffset": 0
+                  },
+                  "position": {
+                    "x": "-10",
+                    "y": "90.5"
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "40"
+                  },
+                  "effects": [
+                    {
+                      "type": "snake",
+                      "drag": "0.1"
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "type": "displacement",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "bouy",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/home/bouy.png"
+                  },
+                  "position": {
+                    "x": "15",
+                    "y": 74.5
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 0.95
+                  },
+                  "size": {
+                    "w": "6.5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -10,
+                        "max": 15
+                      },
+                      "drag": {
+                        "x": 2,
+                        "y": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "turle bottom right",
+                "depth": "-0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "sea turtle",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Turtle_1.png"
+                  },
+                  "position": {
+                    "x": 87,
+                    "y": 87
+                  },
+                  "size": {
+                    "w": "12",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clown fish faster right",
+                "depth": "-0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "clown fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/ClownFish.png"
+                  },
+                  "position": {
+                    "x": 10,
+                    "y": 92
+                  },
+                  "size": {
+                    "w": "auto",
+                    "h": "3"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "2"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "clown fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/ClownFish.png"
+                  },
+                  "position": {
+                    "x": 13,
+                    "y": 87
+                  },
+                  "size": {
+                    "w": "auto",
+                    "h": "3"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "2"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "clown fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/ClownFish.png"
+                  },
+                  "position": {
+                    "x": 17,
+                    "y": 90
+                  },
+                  "size": {
+                    "w": "auto",
+                    "h": "4"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "clown fish slower",
+                "depth": "-0.2"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "clown fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/ClownFish.png"
+                  },
+                  "position": {
+                    "x": 27,
+                    "y": 88
+                  },
+                  "size": {
+                    "w": "auto",
+                    "h": "6"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "turle bottom right",
+                "depth": "-0.15"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "clown fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/ClownFish.png"
+                  },
+                  "position": {
+                    "x": 23,
+                    "y": 95
+                  },
+                  "size": {
+                    "w": "auto",
+                    "h": "4"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "series"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0"
+                },
+                {
+                  "type": "light-beams",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                },
+                {
+                  "type": "light-beams",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                },
+                {
+                  "type": "light-beams",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                },
+                {
+                  "type": "light-beams",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "turle bottom right",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Turtle top right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Turtle_1.png"
+                  },
+                  "position": {
+                    "x": "98",
+                    "y": "60"
+                  },
+                  "size": {
+                    "w": "9",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -5,
+                        "max": 0
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.95
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far whale and turtle layer",
+                "depth": "-0.4"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Turtle top right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Turtle_2.png"
+                  },
+                  "position": {
+                    "x": "90",
+                    "y": "35"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 0,
+                        "max": 5
+                      },
+                      "drag": {
+                        "x": 2,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far whale and turtle layer",
+                "depth": "-0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "whale far back middle",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Whale02.png"
+                  },
+                  "position": {
+                    "x": "65",
+                    "y": "70"
+                  },
+                  "size": {
+                    "w": "10",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "rate": 6,
+                      "maxParticles": 1500,
+                      "position": {
+                        "x": 0.3,
+                        "y": -0.485
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "maxParticles": 1500,
+                      "rate": 5,
+                      "position": {
+                        "x": 0.45,
+                        "y": 0.1
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far whale and turtle layer",
+                "depth": "-0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "whale 2",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Whale02.png"
+                  },
+                  "position": {
+                    "x": "5",
+                    "y": "65"
+                  },
+                  "size": {
+                    "w": "15",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "rate": 5,
+                      "maxParticles": 1500,
+                      "position": {
+                        "x": 0.3,
+                        "y": -0.485
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "maxParticles": 1500,
+                      "rate": 4,
+                      "position": {
+                        "x": 0.45,
+                        "y": 0.1
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Turtle top right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Turtle_2.png"
+                  },
+                  "position": {
+                    "x": "76",
+                    "y": "20"
+                  },
+                  "size": {
+                    "w": "7",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 0,
+                        "max": 5
+                      },
+                      "drag": {
+                        "x": 2,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "med whale layer",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "whale 2",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Whale02.png"
+                  },
+                  "position": {
+                    "x": "25",
+                    "y": "90"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": 0.25,
+                        "y": -0.35
+                      },
+                      "scale": 0.6
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": 0.4,
+                        "y": 0
+                      },
+                      "scale": 0.6
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "1.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "2.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "2.75"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "news"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "close fish",
+                "depth": "0.05"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "puffer small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Blowfish_Small.png"
+                  },
+                  "position": {
+                    "x": "90",
+                    "y": "25"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 5,
+                        "max": 10
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.355,
+                        "y": 0
+                      },
+                      "scale": 0.3
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "puffer small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Blowfish_Small.png"
+                  },
+                  "position": {
+                    "x": "75",
+                    "y": "5"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 5,
+                        "max": 10
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.355,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "puffer small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Blowfish_Big.png"
+                  },
+                  "position": {
+                    "x": "96",
+                    "y": "40"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 5,
+                        "max": 10
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.355,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "puffer mini",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Blowfish_Big.png"
+                  },
+                  "position": {
+                    "x": "75",
+                    "y": "20"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": 5,
+                        "max": 10
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.355,
+                        "y": 0
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "18",
+                    "y": "89"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "5",
+                    "y": "78"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "2",
+                    "y": "83"
+                  },
+                  "size": {
+                    "w": "3",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "4",
+                    "y": "88"
+                  },
+                  "size": {
+                    "w": "3",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "yellow fish med",
+                "depth": "0.15"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "7",
+                    "y": "84"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "14",
+                    "y": "86"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "yellow fish close",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "10",
+                    "y": "92"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "19",
+                    "y": "83"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "1.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "1.5"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far fish",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "puffer 4",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Blowfish_Big.png"
+                  },
+                  "position": {
+                    "x": "80",
+                    "y": "15"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.2,
+                        "y": -0.09
+                      }
+                    },
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "1.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "crew"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "Far Fish",
+                "depth": "0.5"
+              },
+              "objects": [],
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Close Bright Barracuda",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Barracuda_1b.png"
+                  },
+                  "position": {
+                    "x": "13",
+                    "y": "90"
+                  },
+                  "size": {
+                    "w": "15",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.2,
+                        "y": -0.09
+                      }
+                    },
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Dark dark Barracuda",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Barracuda_2b.png"
+                  },
+                  "position": {
+                    "x": "3",
+                    "y": "82"
+                  },
+                  "size": {
+                    "w": "10",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.2,
+                        "y": -0.09
+                      }
+                    },
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Dark dark Barracuda",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Barracuda_2.png"
+                  },
+                  "position": {
+                    "x": "1",
+                    "y": "90"
+                  },
+                  "size": {
+                    "w": "8",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+
+                      "position": {
+                        "x": -0.2,
+                        "y": -0.09
+                      }
+                    },
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Dark dark Barracuda",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Barracuda_2b.png"
+                  },
+                  "position": {
+                    "x": "25",
+                    "y": "92"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "bubbles",
+                      "position": {
+                        "x": -0.2,
+                        "y": -0.09
+                      }
+                    },
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -1,
+                        "max": 1
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ],
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far layer",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink02.5.png"
+                  },
+                  "position": {
+                    "x": "90",
+                    "y": "50"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink02.5.png"
+                  },
+                  "position": {
+                    "x": "80",
+                    "y": "30"
+                  },
+                  "size": {
+                    "w": "7",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink02.5.png"
+                  },
+                  "position": {
+                    "x": "82",
+                    "y": "45"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink02.5.png"
+                  },
+                  "position": {
+                    "x": "88",
+                    "y": "15"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/jelly-05.png"
+                  },
+                  "position": {
+                    "x": "85",
+                    "y": "85"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far layer",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink02.png"
+                  },
+                  "position": {
+                    "x": "87",
+                    "y": "45"
+                  },
+                  "size": {
+                    "w": "8",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/jelly-02.png"
+                  },
+                  "position": {
+                    "x": "80",
+                    "y": "90"
+                  },
+                  "size": {
+                    "w": "7",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "far layer",
+                "depth": "0.5"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Bright Jelly Fish",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/JellyFish_Pink01.png"
+                  },
+                  "position": {
+                    "x": "90",
+                    "y": "35"
+                  },
+                  "size": {
+                    "w": "8",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "jelly 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/jelly-01.png"
+                  },
+                  "position": {
+                    "x": "89",
+                    "y": "96"
+                  },
+                  "size": {
+                    "w": "9",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    },
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.5"
+              },
+              "objects": [],
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.25"
+              },
+              "objects": [],
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "1"
+              },
+              "objects": [],
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "1"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "Sea Horse Layer 1 Back",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Small Blue Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Blue2.png"
+                  },
+                  "position": {
+                    "x": "25",
+                    "y": "5"
+                  },
+                  "size": {
+                    "w": "0.75",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Small Blue Right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Orange2.png"
+                  },
+                  "position": {
+                    "x": "40",
+                    "y": "5"
+                  },
+                  "size": {
+                    "w": "1",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "Sea Horse Layer 2 Med",
+                "depth": "0.5"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Med Orange Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Orange1.png"
+                  },
+                  "position": {
+                    "x": "15",
+                    "y": "-12.5"
+                  },
+                  "size": {
+                    "w": "1.75",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -5,
+                        "max": 12
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Med Blue Right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Blue1.png"
+                  },
+                  "position": {
+                    "x": "45",
+                    "y": "-7.5"
+                  },
+                  "size": {
+                    "w": "1.5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Med Green Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Green2.png"
+                  },
+                  "position": {
+                    "x": "35.5",
+                    "y": "-22.5"
+                  },
+                  "size": {
+                    "w": "1.75",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "careers"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "octo",
+                "depth": "0.5"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Med Orange Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/octo.png"
+                  },
+                  "position": {
+                    "x": "90",
+                    "y": "15"
+                  },
+                  "size": {
+                    "w": "35",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.35
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "startAlpha": 1,
+                      "endAlpha": 0,
+                      "radius": 25,
+                      "maxParticles": 1500,
+                      "minAngle": 0,
+                      "maxAngle": 360,
+                      "position": {
+                        "x": -0.05,
+                        "y": 0.25
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.5"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "close fish",
+                "depth": "0.05"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "18",
+                    "y": "89"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "5",
+                    "y": "78"
+                  },
+                  "size": {
+                    "w": "2",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "2",
+                    "y": "83"
+                  },
+                  "size": {
+                    "w": "3",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "4",
+                    "y": "88"
+                  },
+                  "size": {
+                    "w": "3",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "yellow fish med",
+                "depth": "0.15"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "7",
+                    "y": "84"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "14",
+                    "y": "86"
+                  },
+                  "size": {
+                    "w": "4",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "yellow fish close",
+                "depth": "0.25"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "10",
+                    "y": "92"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Yellowfish small",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/Yellowfish.png"
+                  },
+                  "position": {
+                    "x": "19",
+                    "y": "83"
+                  },
+                  "size": {
+                    "w": "5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": "0.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "0.15"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "1.75"
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "contact"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "background",
+                "depth": "-0.15"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "JellyFishGreen3",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen3.png"
+                  },
+                  "position": {
+                    "x": "30",
+                    "y": "25"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.05,
+                        "y": 0.05
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "JellyFishGreen3",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen3.png"
+                  },
+                  "position": {
+                    "x": "0",
+                    "y": "25"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.05,
+                        "y": 0.05
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "JellyFishGreen3",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen3.png"
+                  },
+                  "position": {
+                    "x": "45",
+                    "y": "45"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.05,
+                        "y": 0.05
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "background",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "background",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/contact/rocks-layer2.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": 100
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 1
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "jelly green mid",
+                "depth": "0.35"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen2.png"
+                  },
+                  "position": {
+                    "x": "15",
+                    "y": "15"
+                  },
+                  "size": {
+                    "w": "25",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.15
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen2.png"
+                  },
+                  "position": {
+                    "x": "35",
+                    "y": "20"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.15
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen2.png"
+                  },
+                  "position": {
+                    "x": "45",
+                    "y": "50"
+                  },
+                  "size": {
+                    "w": "20",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.15
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "background Mid",
+                "depth": "0.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ],
+              "objects": [
+                {
+                  "details": {
+                    "name": "background Mid",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/contact/rocks-layer1.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": 100
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 1
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "stingray",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/sting.png"
+                  },
+                  "position": {
+                    "x": "5",
+                    "y": "75"
+                  },
+                  "size": {
+                    "w": "15",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.5,
+                        "y": 0.5
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "sub",
+                "depth": "1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/bottom/sub.png"
+                  },
+                  "position": {
+                    "x": "75",
+                    "y": "65"
+                  },
+                  "size": {
+                    "w": "40",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.5,
+                        "y": 0.5
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "maxParticles": 1500,
+                      "position": {
+                        "x": 0.4,
+                        "y": -0.26
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "scale": 0.3,
+                      "rate": 10,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "maxParticles": 1500,
+                      "position": {
+                        "x": 0.15,
+                        "y": -0.41
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "water particles",
+                "depth": "2.25"
+              },
+              "effects": [
+                {
+                  "type": "dirt",
+                  "drag": "0.75"
+                }
+              ],
+              "objects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "scenes": [
+        {
+          "details": {
+            "name": "Home - Mid Ground",
+            "initial_scene": true
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "boat shadow",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "boatShadow",
+                    "depth": "100000",
+                    "type": "img",
+                    "src": "img/scenes/home/Boat_Shadow_1.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": "76"
+                  },
+                  "anchor": {
+                    "x": 0.65,
+                    "y": 0.3
+                  },
+                  "size": {
+                    "w": "25",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "fade",
+                      "fade_points": [
+                        {
+                          "scroll": 0,
+                          "image": "img/scenes/home/Boat_Shadow_1.png",
+                          "x": -338,
+                          "y": -185
+                        },
+                        {
+                          "scroll": 5,
+                          "image": "img/scenes/home/Boat_Shadow_2.png",
+                          "x": -338,
+                          "y": -185
+                        }
+                      ]
+                    },
+                    {
+                      "type": "sinking",
+                      "ease": "false",
+                      "sink_point_set": [
+                        {
+                          "scroll": 0,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.75
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 0.3,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.6
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 2.5,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.42
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 3,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.65
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        },
+                        {
+                          "scroll": 5,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.75
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        }
+                      ]
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "type": "displacement",
+                      "drag": "0.1"
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "boat",
+                    "depth": "100000",
+                    "type": "img",
+                    "src": "img/scenes/home/boat.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": "40"
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 0.75
+                  },
+                  "size": {
+                    "w": "30",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "fade",
+                      "fade_points": [
+                        {
+                          "scroll": 0,
+                          "image": "img/scenes/home/Boat_1.png",
+                          "x": -300,
+                          "y": -365
+                        },
+                        {
+                          "scroll": 1,
+                          "image": "img/scenes/home/boat_2.png",
+                          "x": -300,
+                          "y": -365
+                        },
+                        {
+                          "scroll": 2,
+                          "image": "img/scenes/home/Boat_3.png",
+                          "x": -300,
+                          "y": -365
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 40,
+                      "minLife": 15,
+                      "maxLife": 30,
+                      "maxParticles": 500,
+                      "position": {
+                        "x": -0.3,
+                        "y": -0.15
+                      }
+                    },
+                    {
+                      "type": "bubbles",
+                      "emissionCutoff": 0.3,
+                      "scale": 0.3,
+                      "rate": 40,
+                      "minLife": 15,
+                      "maxLife": 20,
+                      "maxParticles": 500,
+                      "position": {
+                        "x": 0,
+                        "y": -0.5
+                      }
+                    },
+                    {
+                      "type": "sinking",
+                      "ease": "false",
+                      "position": "relative",
+                      "sink_point_set": [
+                        {
+                          "scroll": 0,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.72
+                          },
+                          "rotation": 0,
+                          "sinBobMult": 8,
+                          "sinRotateMult": 0.03
+                        },
+                        {
+                          "scroll": 0.3,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.6
+                          },
+                          "rotation": -0.4,
+                          "sinBobMult": 8,
+                          "sinRotateMult": 0.03
+                        },
+                        {
+                          "scroll": 2.5,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.35
+                          },
+                          "rotation": -1,
+                          "sinBobMult": 6,
+                          "sinRotateMult": 0.02
+                        },
+                        {
+                          "scroll": 3,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.5
+                          },
+                          "rotation": -1,
+                          "sinBobMult": 4,
+                          "sinRotateMult": 0.01
+                        },
+                        {
+                          "scroll": 5,
+                          "position": {
+                            "x": 0.5,
+                            "y": 0.825
+                          },
+                          "rotation": -0.2,
+                          "sinBobMult": 0,
+                          "sinRotateMult": 0
+                        }
+                      ]
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "type": "displacement",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "Series Filler - Mid Ground"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid news filler"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid crew filler"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid news filler"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid contact filler"
+          },
+          "layers": []
+        }
+      ]
+    },
+    {
+      "scenes": [
+        {
+          "details": {
+            "name": "Home - Frontground",
+            "initial_scene": true
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "Home Layer",
+                "depth": "0"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "wave",
+                    "depth": "0",
+                    "type": "snake",
+                    "src": "img/scenes/home/Rope_Front.png",
+                    "waveOffset": 10
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 0
+                  },
+                  "position": {
+                    "x": "-10",
+                    "y": "87.5"
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "40"
+                  },
+                  "effects": [
+                    {
+                      "type": "snake",
+                      "drag": "0.1"
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "type": "displacement",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "Series Filler - Front Ground"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid news filler"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid crew filler"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "Sea Horse Layer 3 Lg",
+                "depth": "1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "Large Orange Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Orange1.png"
+                  },
+                  "position": {
+                    "x": "35",
+                    "y": "-15.5"
+                  },
+                  "size": {
+                    "w": "3.25",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -5,
+                        "max": 12
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Large Blue Right",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Blue1.png"
+                  },
+                  "position": {
+                    "x": "20",
+                    "y": "-15"
+                  },
+                  "size": {
+                    "w": "2.5",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "Large Green Left",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/2/SeaHorse_Green2.png"
+                  },
+                  "position": {
+                    "x": "57.5",
+                    "y": "-22.5"
+                  },
+                  "size": {
+                    "w": "2.25",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "rotation": {
+                        "min": -2,
+                        "max": 2
+                      },
+                      "drag": {
+                        "x": 1,
+                        "y": 2.5
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "details": {
+            "name": "mid news filler"
+          },
+          "layers": []
+        },
+        {
+          "details": {
+            "name": "mid contact filler"
+          },
+          "layers": [
+            {
+              "details": {
+                "name": "ship",
+                "depth": "0.5"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "weeds layer 1",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/contact/weeds-layer2.png"
+                  },
+                  "position": {
+                    "x": "50",
+                    "y": 99.5
+                  },
+                  "anchor": {
+                    "x": 0.5,
+                    "y": 1
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "scale",
+                      "drag": "0.1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "jelly green mid",
+                "depth": "0.5"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen1.png"
+                  },
+                  "position": {
+                    "x": "5",
+                    "y": "25"
+                  },
+                  "size": {
+                    "w": "28",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.15
+                      }
+                    }
+                  ]
+                },
+                {
+                  "details": {
+                    "name": "submarine",
+                    "depth": "0",
+                    "type": "img",
+                    "global": "true",
+                    "src": "img/scenes/2/JellyFishGreen1.png"
+                  },
+                  "position": {
+                    "x": "20",
+                    "y": "50"
+                  },
+                  "size": {
+                    "w": "22",
+                    "h": "auto"
+                  },
+                  "effects": [
+                    {
+                      "type": "float",
+                      "drag": {
+                        "x": 0.15,
+                        "y": 0.15
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "details": {
+                "name": "ship",
+                "depth": "1"
+              },
+              "objects": [
+                {
+                  "details": {
+                    "name": "weeds",
+                    "depth": "0",
+                    "type": "img",
+                    "src": "img/scenes/contact/weeds-layer1.png"
+                  },
+                  "position": {
+                    "x": "0",
+                    "y": "100"
+                  },
+                  "anchor": {
+                    "x": 0,
+                    "y": 1
+                  },
+                  "size": {
+                    "w": "100",
+                    "h": "auto"
+                  },
+                  "effects": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

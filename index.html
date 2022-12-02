@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+
+<html class="pageLoading">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>
+      var isMobileInline = {
+        Android: function () {
+          return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function () {
+          return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function () {
+          return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function () {
+          return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function () {
+          return (
+            navigator.userAgent.match(/IEMobile/i) ||
+            navigator.userAgent.match(/WPDesktop/i)
+          );
+        },
+        any: function () {
+          return (
+            isMobileInline.Android() ||
+            isMobileInline.BlackBerry() ||
+            isMobileInline.iOS() ||
+            isMobileInline.Opera() ||
+            isMobileInline.Windows()
+          );
+        },
+      };
+
+      function hasWebGL() {
+        var canvasID = "backgroundCanvas",
+          canvas = document.getElementById(canvasID),
+          gl,
+          glExperimental = false;
+
+        try {
+          gl = canvas.getContext("webgl");
+        } catch (x) {
+          gl = null;
+        }
+
+        if (gl === null) {
+          try {
+            gl = canvas.getContext("experimental-webgl");
+            glExperimental = true;
+          } catch (x) {
+            gl = null;
+          }
+        }
+
+        if (gl) {
+          return true;
+        } else if ("WebGLRenderingContext" in window) {
+          return true;
+        } // not a best way, as you're not 100% sure, so you can change it to false
+        else {
+          return false;
+        }
+      }
+
+      // mobile redirect
+      if (isMobileInline.any()) {
+        window.location = "index-mobile.html";
+      }
+    </script>
+
+    <title>Sinking Ship</title>
+
+    <link rel="icon" type="image/png" href="img/global/favicon.png" />
+
+    <script src="js/lib/jquery-2.1.3.min.js"></script>
+    <script src="js/slick.js"></script>
+    <script src="js/functions.global.js"></script>
+    <script>
+      // checkl if is mobile
+      var $script = $(document.createElement("script"));
+      $script.attr("type", "text/javascript");
+      $script.attr("data-main", "main.js");
+      $script.attr("data-plug-in", "");
+      $script.attr("id", "require_script");
+
+      // do desktop version
+      $script.attr("src", "js/compiled.js"); // "js/weblib/require.custom.js" );
+      $("head").append($script);
+
+      $("head").append(
+        '<link href="css/global.css" rel="stylesheet" type="text/css">'
+      );
+    </script>
+  </head>
+  <body data-activeScene="0">
+    <div class="loadingInfo">
+      <div class="loading-wrapper">
+        <div class="loading-details">
+          <div class="sizer"></div>
+          <div class="sized">
+            <img
+              src="img/mobile/load/load-back.png"
+              class="load-img load-back"
+            />
+            <img
+              src="img/global/ss-logo-mobile-blue.png"
+              class="loading-logo"
+            />
+            <img src="img/mobile/load/load-mid.png" class="load-img load-mid" />
+            <p><span class="pageLoad">0</span><em>%</em></p>
+            <img
+              src="img/mobile/load/load-front.png"
+              class="load-img load-front"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="videoOverlay">
+      <div class="clickScreen"></div>
+      <nav>
+        <a href="#" class="btn-close">Close</a>
+      </nav>
+      <div class="video-wrapper">
+        <div class="sizer"></div>
+        <div class="sized"></div>
+      </div>
+    </div>
+    <nav>
+      <a href="#" data-target="home" data-page="0" class="btn-home">
+        <img src="img/global/mobile-bar-logo.png" class="mobile-bar-logo" />
+      </a>
+      <ul>
+        <li>
+          <a href="#" data-target="series" data-page="1" class="lnk-series"
+            >Series</a
+          >
+        </li>
+        <li>
+          <a href="#" data-target="news" data-page="2" class="lnk-news">News</a>
+        </li>
+        <li>
+          <a href="#" data-target="crew" data-page="3" class="lnk-crew">Crew</a>
+        </li>
+        <li>
+          <a href="#" data-target="careers" data-page="4" class="lnk-careers"
+            >Careers</a
+          >
+        </li>
+        <li>
+          <a
+            href="http://ssdistribution.wpengine.com/series-type/our-shows/"
+            target="_blank"
+            class="lnk-distribution"
+            >Distribution</a
+          >
+        </li>
+        <li>
+          <a href="#" data-target="contact" data-page="5" class="lnk-contact"
+            >Contact</a
+          >
+        </li>
+        <li>
+          <a
+            href="#"
+            onclick="videoOverlay('ehvxlq6qtNc', event)"
+            class="lnk-reel"
+            >Reel</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <a href="index-mobile.html" class="switch switch-mobile"
+      ><img src="img/global/btn-switch-mobile.png"
+    /></a>
+    <div id="contentContainer">
+      <section
+        data-title="home"
+        class="pg-0 pg-home activeScene"
+        data-genratr="home/index.html"
+        data-genratr-doneFunc="initLoad"
+      ></section>
+      <div class="pg-seperator"></div>
+      <section
+        data-title="series"
+        class="pg-1 pg-series"
+        data-genratr="series/index.html"
+        data-genratr-doneFunc="fetchSeries"
+      ></section>
+      <div class="pg-seperator"></div>
+      <section
+        data-title="news"
+        class="pg-2 pg-news"
+        data-genratr="news/index.html"
+        data-genratr-doneFunc="fetchNews"
+      ></section>
+      <div class="pg-seperator"></div>
+      <section
+        data-title="crew"
+        class="pg-3 pg-crew"
+        data-genratr="crew/index.html"
+        data-genratr-doneFunc="fetchCrew"
+      ></section>
+      <div class="pg-seperator"></div>
+      <section
+        data-title="careers"
+        class="pg-4 pg-careers"
+        data-genratr="careers/index.html"
+        data-genratr-doneFunc="fetchCareers"
+      ></section>
+      <div class="pg-seperator"></div>
+      <section
+        data-title="contact"
+        class="pg-5 pg-contact"
+        data-genratr="contact/index.html"
+        data-genratr-doneFunc="resize"
+      ></section>
+    </div>
+    <a
+      href="https://plus.google.com/114621463169589080897"
+      rel="publisher"
+      style="display: none"
+      >Google+</a
+    >
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "//www.google-analytics.com/analytics.js",
+        "ga"
+      );
+
+      ga("create", "UA-33144979-1", "auto");
+      ga("send", "pageview");
+    </script>
+    <script src="js/functions.iscroll.js"></script>
+    <script src="js/functions.pageGenratr.js"></script>
+  </body>
+</html>

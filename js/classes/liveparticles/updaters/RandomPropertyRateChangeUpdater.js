@@ -1,0 +1,69 @@
+require.include("weblib/ssnamespace");
+require.include("weblib/core/Util");
+require.include("weblib/liveparticles/updater/BaseParticleUpdater");
+
+/**
+* Modifies the value of a particular property from its current value at a randomly selected rate.
+*/
+ss.RandomPropertyRateChangeUpdater = function(propertyName, minChangeRate, maxChangeRate, subProperty){
+	"use strict";
+
+	//Call base class constructor
+	ss.BaseParticleUpdater.call(this);
+
+	var _this = this;
+	this.name = "RandomPropertyRateChangeUpdater";
+	this.exposedVariables = ["propertyName", "minChangeRate", "maxChangeRate", "subProperty"];
+
+	//[String] - Name of the property to modify
+	this.propName = propertyName;
+
+	//[String] - An optional sub-property name 
+	this.subPropName = isEmpty(subProperty) ? undefined : subProperty;
+
+	//[Number] - Minimum rate of change to apply
+	this.minChange = minChangeRate;
+
+	//[Number] - Maximum rate of change to apply
+	this.maxChange = maxChangeRate;
+
+	/*
+	* Initializes a set of particles for use by this updater
+	* @param particles:Array[AbstractParticle] - List of particles to be updated
+	* @param startIndex:int - The index to start updating at
+	* @param endIndex:int - The index to end updating at
+	*/
+	_this.initParticles = function(particles, startIndex, endIndex){
+		var randRate;
+		//var _range = this.maxScale - this.minScale;
+
+		//Select a randomized rate of change for each particle and store it on the particle
+		for(var i = startIndex; i <= endIndex; i++) {
+			randRate = this.minChange + Math.random() * (this.maxChange - this.minChange);
+			particles[i].rprcu_rate = randRate;
+		}
+	}
+
+	/*
+	* [PROTECTED OVERRIDE]
+	* Perform updates on all particles in a list
+	* @param particles:Array[AbstractParticle] - List of particles to be updated
+	* @param delta:Number - Time elapsed since last update (in seconds)
+	*/
+	_this.updateParticles = function(particles, delta){
+		var i;
+
+		if(this.subPropName === undefined){
+			for(i = 0; i < particles.length; i++){
+				particles[i][this.propName] += delta * particles[i].rprcu_rate;
+			}
+		}else{
+			for(i = 0; i < particles.length; i++){
+				particles[i][this.propName][this.subPropName] += delta * particles[i].rprcu_rate;
+			}
+		}
+	};
+}
+
+ss.RandomPropertyRateChangeUpdater.prototype = new ss.BaseParticleUpdater();
+ss.RandomPropertyRateChangeUpdater.prototype.constructor = ss.RandomPropertyRateChangeUpdater;

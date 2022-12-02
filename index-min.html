@@ -1,0 +1,491 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Sinking Ship</title>
+    
+	<meta name=viewport content="width=device-width, initial-scale=1">
+    
+    <link href="css/global.css" rel="stylesheet" type="text/css">
+    <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="img/global/favicon.png" />
+    
+    <style>
+        html,
+        body,
+        canvas {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        #input_capture {
+            width: 25%;
+            height: 25%;
+            background: #ff0;
+        }
+    </style>
+    
+
+	<script src="js/lib/jquery-2.1.3.min.js"></script>
+  	<script type="text/javascript" src="js/iscroll-probe.js"></script>
+    <script type="text/javascript" src="js/functions.iscroll.js"></script>
+    <script type="text/javascript" src="js/functions.global.js"></script> 
+
+	<script src="https://maps.googleapis.com/maps/api/js"></script>
+    
+     <script>
+          function initialize() {
+              var myLatlng = new google.maps.LatLng(43.639281, -79.425028);
+              var mapOptions = {
+                  zoom: 15,
+                  //maxZoom: 5,
+                  center: new google.maps.LatLng(43.639281, -79.425028),
+                  mapTypeId: google.maps.MapTypeId.ROADMAP,
+                  styles: [{
+                      "elementType": "geometry.fill",
+                          "stylers": [{
+                          "visibility": "off"
+                      }]
+                  }, {
+                      "featureType": "landscape.natural.landcover",
+                          "elementType": "geometry.fill",
+                          "stylers": [{
+                          "visibility": "on"
+                      }]
+                  },
+                  {
+                      "featureType": "road",
+                          "elementType": "geometry.fill",
+                          "stylers":[
+                         { "color": "#30bcd5" },
+                           { "visibility": "on" }
+                       ]
+                  },
+                   {
+                      "featureType": "road",
+                          "elementType": "geometry.stroke",
+                          "stylers":[
+                           { "visibility": "off" }
+                       ]
+                  },
+                  {
+                     
+                         "elementType": "labels.text.fill",
+                          "stylers": [
+                        { "color": "#FFFFFF" }
+                  ]
+                 },
+                 {
+                     
+                         "elementType": "labels.text.stroke",
+                          "stylers": [
+                        { "color": "#FFFFFF" },
+                        { "weight": 0.5 }
+                  ]
+                 },
+                  {
+                      "featureType": "administrative",
+                           "stylers":[
+                           { "visibility": "off" }
+                       ]
+                  },
+                   {
+                      "featureType": "transit.line",
+                       "elementType": "geometry",
+                       "stylers": [
+                         { "visibility": "off" }
+                      ]
+                      }
+                  
+                  ]
+                  
+              };
+              map = new google.maps.Map(document.getElementById('map_canvas'),
+              mapOptions);
+              var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
+				
+				var marker = new google.maps.Marker({
+					position: myLatlng,
+					map: map,
+					icon: 'http://i.imgur.com/fDG9y8L.png',
+					title: 'Sinking Ship Entertainment'
+				});
+				
+          }
+    
+          google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+</head>
+<body>
+<div class="videoOverlay">
+	<div class="clickScreen"></div>
+    <nav>
+    	<a href="#" class="btn-close">Close</a>
+    </nav>
+	<div class="video-wrapper">
+    	<div class="sizer"></div>
+        <div class="sized">
+        </div>
+    </div>
+</div>
+    <div id="contentContainer">
+        <section data-title="home" class="pg-0 pg-home activeScene">
+        	<figure class="btn-sceneNav btn-nextScene" onClick="window.ss.SiteManager.setPage(1)">
+            	<img src="img/series/nav/btn-down.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Series</h2>
+                </figcaption>
+            </figure>
+        	<nav>
+            	<a href="#" onclick="window.ss.SiteManager.setPage(1)">Series</a>
+            	<a href="#" onclick="window.ss.SiteManager.setPage(2)">News</a>
+            	<a href="#" onclick="window.ss.SiteManager.setPage(3)">Crew</a>
+            	<a href="#" onclick="window.ss.SiteManager.setPage(4)">Contact</a>
+            	<a href="#" onclick="videoOverlay('GVubnxGnavc', event)">Reel</a>
+            </nav>
+        </section>
+        <section data-title="series" class="pg-1 pg-series">
+        	<figure class="btn-sceneNav btn-prevScene" onClick="window.ss.SiteManager.setPage(0)">
+            	<img src="img/series/nav/btn-up.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Home</h2>
+                </figcaption>
+            </figure>
+        	<figure class="btn-sceneNav btn-nextScene" onClick="window.ss.SiteManager.setPage(2)">
+            	<img src="img/series/nav/btn-down.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Top News</h2>
+                </figcaption>
+            </figure>
+            <header>
+                <h2><span>Series</span></h2>
+            </header>
+            <nav class="scrollStart">
+            	<a href="#" class="btn-carousel btn-prev" data-carouselTarget="carouselSeries" data-carouselValue="prev" onClick="gotoScroll('seriesNavCarousel', 'prev', 1000)">
+                	<div class="sizer"></div>
+                	<div class="sized">
+                    	<img src="img/series/nav/btn-prev.png">
+                    </div>
+                </a>
+            	<a href="#" class="btn-carousel btn-next" data-carouselTarget="carouselSeries" data-carouselValue="next" onClick="gotoScroll('seriesNavCarousel', 'next', 1000)">
+                	<div class="sizer"></div>
+                	<div class="sized">
+                    	<img src="img/series/nav/btn-next.png">
+                    </div>
+                </a>                
+            	<div class="series-carousel-nav-wrapper">
+                    <ul class="series-carousel-nav">
+                        <li class="annedroids" data-target="annedroids">
+                        	<h4>Available</h4>
+                            <p><em>52 x 22 mins</em></p>
+                            <h3><span>Annedroids</span></h3>
+                            <img src="img/series/nav/annedroids_head.png">
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <article>
+            	<div class="series-carousel">
+                    <div class="show-panel annedroids active" data-startPanel="production">
+                    	<nav>
+                        	<a href="#" data-panelTarget="production"><span>Production</span></a>
+                        	<a href="#" data-panelTarget="visualeffects"><span>Visual Effects</span></a>
+                        	<a href="#" data-panelTarget="interactive"><span>Interactive</span></a>
+                        	<a href="#" data-panelTarget="about"><span>About</span></a>
+                        	<a href="#" data-panelTarget="awards"><span>Awards</span></a>
+                        </nav>
+                        <ul class="departments">
+                        	<li class="production active" data-loadFunc="createVideo">
+                            	<img src="img/series/panels/annedroids/annedroids_prod_L.png" class="panel-img panel-img-left" />
+                            	<img src="img/series/panels/annedroids/annedroids_prod_R.png" class="panel-img panel-img-right" />
+                                <div class="panel-content">
+                                	<div class="video-wrapper" data-videoCode="xG-KeIdlwPk">
+                                    	<div class="sizer"></div>
+                                        <div class="sized">
+
+										</div>
+									</div>
+                                </div>
+                            </li>
+                        	<li class="visualeffects" data-loadfunc="createVideo">
+                            	<img src="img/series/panels/annedroids/annedroids_vfx_L.png" class="panel-img panel-img-left" />
+                            	<img src="img/series/panels/annedroids/annedroids_vfx_R.png" class="panel-img panel-img-right" />
+                                <div class="panel-content">
+                                	<div class="video-wrapper" data-videoCode="s5CcqWpKXg0">
+                                    	<div class="sizer"></div>
+                                        <div class="sized">
+										</div>
+									</div>
+                                </div>
+                            </li>
+                        	<li class="interactive">
+                            	<img src="img/series/panels/annedroids/annedroids_int_L.png" class="panel-img panel-img-left" />
+                            	<img src="img/series/panels/annedroids/annedroids_int_R.png" class="panel-img panel-img-right" />
+                                <div class="panel-content">
+                                	<div class="gallery-wrapper">
+                                    	<div class="sizer"></div>
+                                        <div class="sized">
+											<img src="img/series/panels/annedroids/gallery/AD_EPISODE-MAIN.jpg" class="main-img">
+		                                    <ul class="gallery-nav">
+                                            	<li class="selected">
+                                                	<img src="img/series/panels/annedroids/gallery/AD_EPISODE-MAIN.jpg">
+                                            	</li>
+                                            	<li>
+                                                	<img src="img/series/panels/annedroids/gallery/AD-BatteryPaths.jpg">
+                                            	</li>
+                                            	<li>
+	                                            	<img src="img/series/panels/annedroids/gallery/AD-LightningCatcher.jpg">
+                                            	</li>
+                                            	<li>
+	                                            	<img src="img/series/panels/annedroids/gallery/AD-EyesSpies.jpg">
+                                            	</li>
+                                            </ul>
+										</div>
+									</div>
+                                </div>  
+                            	
+                            </li>
+                        	<li class="about">
+                            	<img src="img/series/panels/annedroids/annedroids_logo_L.png" class="panel-img panel-img-left" />
+                                <div class="panel-content">
+                                    <div class="description">
+                                    	<p>Annedroids is a science-based action-adventure series for 6-9 year olds. It follows 11-year old genius and kid-scientist Anne, who loves nothing more than doing cool experiments. Anne has invented and built her own amazing androids to help her out. Far more than mere 'robots' (simple machines that can only perform single tasks), Annedroids are thinking, feeling creations with curious, endearing personalities. Thanks to their insatiable curiosity, Anne's experiments always lead to unforeseen complications, hijinks, and misadventures. One day, new kid on the block, Nick, discovers Anne's secret junkyard laboratory. Nick enlists the help of Shania, his slightly eccentric neighbour, and they soon befriend Anne and her mechanical companions. Nick and Shania have uncanny ways of figuring out the real-life solutions to Anne's scientific problems. Needless to say, when two girls, one boy and three androids join forces, excitement and discovery follow.</p>
+                                    </div>
+                                    <dl>
+                                        <dt>Length: </dt>
+                                        <dd>26 x 30 mins</dd>
+                                        <dt>Delivery Date: </dt>
+                                        <dd>Launching July 25th on Amazon Prime and August 25th of TVO</dd>
+                                        <dt>Distributed By: </dt>
+                                        <dd>Picture Box</dd>
+                                        <dt>Contact: </dt>
+                                        <dd>distribution@sinkingship.ca</dd>
+                                    </dl>
+                                </div>
+                            </li>
+                        	<li class="awards">
+                            	<ol>
+                                	<li>
+                                    	<figure>
+                                            <figcaption>2015 Winner</figcaption>
+                                            <img src="img/awards/parentschoicesilver.png">
+                                        </figure>
+                                        <p>Parents' Choice Silver Honor Award Winner 2015</p>
+                                    </li>
+                                	<li>
+                                    	<figure>
+                                            <figcaption>2015 Nominated</figcaption>
+                                            <img src="img/awards/kidscreen.png">
+                                        </figure>
+                                        <p>Best New Series, Kids Category</p>
+                                    </li>
+                                	<li>
+                                    	<figure>
+                                            <figcaption>2014 Winner</figcaption>
+                                            <img src="img/awards/sciencefilmfestival.png">
+                                        </figure>
+                                        <p>The IPST Education Award Winner</p>
+                                    </li>
+                                	<li>
+                                    	<figure>
+                                            <figcaption>2014 Finalist</figcaption>
+                                            <img src="img/awards/shawrocketprize.png">
+                                        </figure>
+                                        <p>2014 Finalist, Ages 6-12</p>
+                                    </li>
+                                </ol>
+                            </li>
+                        </ul>
+                    </div>
+                </ul>
+            </article>
+        </section>
+        <section data-title="news" class="pg-2 pg-news">
+        	<figure class="btn-sceneNav btn-prevScene" onClick="window.ss.SiteManager.setPage(1)">
+            	<img src="img/series/nav/btn-up.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Series</h2>
+                </figcaption>
+            </figure>
+        	<figure class="btn-sceneNav btn-nextScene" onClick="window.ss.SiteManager.setPage(3)">
+            	<img src="img/series/nav/btn-down.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Crew</h2>
+                </figcaption>
+            </figure>
+            <header>
+                <h2><span>Top News</span></h2>
+            </header>
+            <nav class="scrollStart">
+            	<a href="#" class="btn-carousel btn-prev" data-carouselTarget="seriesNewsCarousel" data-carouselValue="prev" onClick="gotoScroll('seriesNewsCarousel', 'prev', 1000)">
+                	<div class="sizer"></div>
+                	<div class="sized">
+                    	<img src="img/series/nav/btn-prev.png">
+                    </div>
+                </a>
+            	<a href="#" class="btn-carousel btn-next" data-carouselTarget="seriesNewsCarousel" data-carouselValue="next" onClick="gotoScroll('seriesNewsCarousel', 'next', 1000)">
+                	<div class="sizer"></div>
+                	<div class="sized">
+                    	<img src="img/series/nav/btn-next.png">
+                    </div>
+                </a>
+			</nav>
+            <article>
+                <div class="news-carousel-wrapper">
+                    <ul class="news-carousel">
+                      <li class="newsItem featured">
+                        <div class="annedroids">
+                          <h1> December 2014 </h1>
+                          <span> Annedroids </span>
+                          <h2> Amazon kids show lands at Discovery Asia </h2>
+                          <a href="http://tbivision.com/news/2014/12/amazon-kids-show-lands-discovery-asia/371291/" target="_blank"> + Read More </a> </div>
+                      </li>
+                      <li class="newsItem couple">
+                        <div class="oddsquad">
+                          <h1> November 2014 </h1>
+                          <span> Odd Squad </span>
+                          <h2> The Fun List </h2>
+                          <a href="http://www.sinkingship.ca/press/ODDS2.pdf" target="_blank"> + Read More </a> </div>
+                        <div class="oddsquad">
+                          <h1> November 2014 </h1>
+                          <span> Odd Squad </span>
+                          <h2> Holiday Preview ~ Kids' Picks </h2>
+                          <a href="http://www.sinkingship.ca/press/ODDS5.pdf" target="_blank"> + Read More </a> </div>
+                      </li>
+                      <li class="newsItem couple">
+                        <div class="oddsquad">
+                          <h1> November 2014 </h1>
+                          <span> Odd Squad </span>
+                          <h2> Number Racket </h2>
+                          <a href="http://www.sinkingship.ca/press/ODDS6.pdf" target="_blank"> + Read More </a> </div>
+                        <div class="oddsquad">
+                          <h1> November 2014 </h1>
+                          <span> Odd Squad </span>
+                          <h2> Even or Odds? Tune In and Find Out </h2>
+                          <a href="http://www.sinkingship.ca/press/ODDS8.pdf" target="_blank"> + Read More </a> </div>
+                      </li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+        <section data-title="crew" class="pg-3 pg-crew">
+        	<figure class="btn-sceneNav btn-prevScene" onClick="window.ss.SiteManager.setPage(2)">
+            	<img src="img/series/nav/btn-up.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Top News</h2>
+                </figcaption>
+            </figure>
+        	<figure class="btn-sceneNav btn-nextScene" onClick="window.ss.SiteManager.setPage(4)">
+            	<img src="img/series/nav/btn-down.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Contact</h2>
+                </figcaption>
+            </figure>
+            <header>
+                <h2><span>Crew</span></h2>
+            </header>
+        	<article>
+            	<div class="crew-lst-wrapper">
+                    <dl class="crew-lst">
+                        <dt>Partners</dt>
+                        <dd class="active" data-crewId="0"><img src="img/crew/thumbs/jj_A.jpg" class="crew-thmb-img"></dd>
+                        <dd data-crewId="1"><img src="img/crew/thumbs/blair_A.jpg" class="crew-thmb-img"></dd>
+                        <dd data-crewId="2"><img src="img/crew/thumbs/matt_A.jpg" class="crew-thmb-img"></dd>
+                    </dl>
+                </div>
+                <div class="crew-info-wrapper">
+                	<ul class="crew-info">
+                    <li data-infoId="0" class="active">
+                        <figure>
+                            <div class="sizer"></div>
+                                <div class="sized">
+                                <img src="img/crew/jj_A.jpg" class="crew-img">
+                                <img src="img/crew/jj_B.jpg" class="crew-img-hover">
+                                <img src="img/crew/crew-frame.png" class="crew-frame">
+                                </div>
+                            </figure>
+                            <h3>J.J. Johnson</h3>
+                            <h4>Producer / Partner</h4>
+                            <p>J.J. Johnson is a founding partner and the creative force behind Sinking Ship Entertainment. Since the company's inception in 2004, he has created 12 series including international hits Annedroids, Emmy nominated Dino Dan and This is Daniel Cook. J.J. has directed over 150 hours of children's programming and filmed in over 30 countries, he is also the series director on PBS's Odd Squad. J.J. is an Emmy-nominated writer with over 500 episode credits and has been recognized by The Toronto Star and enRoute magazine as one of Canada's top children's television producers. He was listed in Playback magazine as one of their Top 10 to Watch and was named by The Hollywood Reporter as one of the Top 20 under 35 in 2013. J.J. Is also co-chair of the Youth Media Alliance in Canada.</p>
+                        </li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+        <section data-title="contact" class="pg-4 pg-contact">
+        	<figure class="btn-sceneNav btn-prevScene" onClick="window.ss.SiteManager.setPage(3)">
+            	<img src="img/series/nav/btn-up.png">
+                <figcaption>
+                	<span>Scroll to</span>
+                    <h2>Crew</h2>
+                </figcaption>
+            </figure>
+            <header>
+                <h2><span>Contact Us</span></h2>
+            </header>
+        	<article>
+            	<ul class="contactList">
+                	<li class="contact-type contact-email">
+                    	<img src="img/temp/icon-email.png" />
+                    	<h3>Email</h3>
+                        <p>info@sinkingship.ca</p>
+                    </li>
+                	<li class="contact-type contact-phone">
+                    	<img src="img/temp/icon-phone.png" />
+                    	<h3>Phone</h3>
+                        <p>(416) 533-8172</p>
+                    </li>
+                	<li class="contact-type contact-fax">
+                    	<img src="img/temp/icon-fax.png" />
+                    	<h3>Fax</h3>
+                        <p>(416) 533-3878</p>
+                    </li>
+                	<li class="contact-type contact-facebook">
+						<a href="http://www.facebook.com/sinkingshipentertainment" target="_blank">
+                    	<img src="img/temp/icon-facebook.png" />
+                            <h3>Facebook</h3>
+                            <p>Like Us</p>
+                        </a>
+                    </li>
+                	<li class="contact-type contact-twitter">
+                    	<a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.sinkingship.ca%2Fprofile.html&region=follow_link&screen_name=SinkingShipEnt&tw_p=followbutton&variant=2.0" target="_blank">
+                    	<img src="img/temp/icon-twitter.png" />
+                            <h3>Twitter</h3>
+                            <p>Follow Us</p>
+                        </a>
+                    </li>
+                	<li class="contact-type contact-youtube">
+						<a href="http://www.youtube.com/user/SinkingShipEntTO" target="_blank">
+                    	<img src="img/temp/icon-youtube.png" />
+                            <h3>Youtube</h3>
+                            <p>Watch Us</p>
+                        </a>
+                    </li>
+                </ul>
+                <div class="contact-wrapper">
+                    <h2>Sinking Ship Entertainment</h2>
+                    <p>Suite 302 - 1179 King Street West</p>
+                    <p>Toronto Ontario M6K 3C5</p>
+                </div>
+                <div class="map-wrapper">
+                	<div class="sizer"></div>
+                    <div class="sized">
+		                <div id="canvas" style="height:100%;width:100%;position: absolute;">
+						<div id="map_canvas" style="height:100%;width:100%;background-color: rgba(0,0,0,0.05);;left:0;top:0;">
+                    </div>
+                </div>
+            </article>
+        </section>
+    </div>
+    <script type="text/javascript" src="js/functions.init.js"></script>
+</body>
+</html>
+

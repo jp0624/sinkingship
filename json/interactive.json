@@ -1,0 +1,429 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values"
+    },
+    "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": { "type": "text", "$t": "interactive" },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      { "name": { "$t": "ronald" }, "email": { "$t": "ronald@sinkingship.ca" } }
+    ],
+    "openSearch$totalResults": { "$t": "10" },
+    "openSearch$startIndex": { "$t": "1" },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cokwr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Bone Caster, short: The museum's about to open but there are no dinosaur bones!, ios: https://itunes.apple.com/us/app/dino-dan-dino-adventure/id562210347?mt\u003d8, description: Help Trek cast dinosaur bones and put them together into dino skeletons to attract lots of visitors. You're on a tight deadline to create and assemble as many dinosaurs as you can. The faster you are, the more workbenches and casting tools you can use, eventually running four casting set-ups at the same time. Following the real steps of dino bone casting, you'll frame the bones, fill the frame with liquid to create a mold and then fill your mold with plaster - all in the right order. By the end of the game you'll know all about the materials and steps in casting dinosaur bones, but it's quite a challenge. Once you've got four casting tables going at once, it gets pretty tricky to keep all the steps in order. Will you and Trek be able to beat the deadline?, folder: bonecaster"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cokwr"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Bone Caster" },
+        "gsx$short": {
+          "$t": "The museum's about to open but there are no dinosaur bones!"
+        },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/us/app/dino-dan-dino-adventure/id562210347?mt\u003d8"
+        },
+        "gsx$android": { "$t": "" },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Help Trek cast dinosaur bones and put them together into dino skeletons to attract lots of visitors. You're on a tight deadline to create and assemble as many dinosaurs as you can. The faster you are, the more workbenches and casting tools you can use, eventually running four casting set-ups at the same time. Following the real steps of dino bone casting, you'll frame the bones, fill the frame with liquid to create a mold and then fill your mold with plaster - all in the right order. By the end of the game you'll know all about the materials and steps in casting dinosaur bones, but it's quite a challenge. Once you've got four casting tables going at once, it gets pretty tricky to keep all the steps in order. Will you and Trek be able to beat the deadline?"
+        },
+        "gsx$folder": { "$t": "bonecaster" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cpzh4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Cam, short: Watch out for rampaging dinos!, ios: http://itunes.apple.com/us/app/dino-dan-dino-cam/id509310519?mt\u003d8, description: This cool augmented reality app lets you see the world through Dino Dan's eyes. With Dino Cam, you can use your device's camera to track down and even control roving dinosaurs – wherever you may be. Simply aim the camera in any direction and lifelike dinos will appear on screen. Line them up in your sights and take a picture. Now you have photographic evidence that dinos still walk (and fly) the earth! You can also save your prehistoric pics to your gallery to email to friends. If you've ever wanted to control a mighty Tyrannosaurus Rex, now's your chance., folder: dinocam"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cpzh4"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Cam" },
+        "gsx$short": { "$t": "Watch out for rampaging dinos!" },
+        "gsx$ios": {
+          "$t": "http://itunes.apple.com/us/app/dino-dan-dino-cam/id509310519?mt\u003d8"
+        },
+        "gsx$android": { "$t": "" },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "This cool augmented reality app lets you see the world through Dino Dan's eyes. With Dino Cam, you can use your device's camera to track down and even control roving dinosaurs – wherever you may be. Simply aim the camera in any direction and lifelike dinos will appear on screen. Line them up in your sights and take a picture. Now you have photographic evidence that dinos still walk (and fly) the earth! You can also save your prehistoric pics to your gallery to email to friends. If you've ever wanted to control a mighty Tyrannosaurus Rex, now's your chance."
+        },
+        "gsx$folder": { "$t": "dinocam" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cre1l"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Defense, short: Get ready for prehistoric fun with Dino Defence!, ios: http://itunes.apple.com/ca/app/readability/id500775997?mt\u003d8, description: Protect your eggs from charging hordes of reptilian predators! As a relentless swarm of carnivorous dinos comes after your eggs, you must repel them using a battery of ingenious dino defences. Play 10 different levels in three distinct environments, each with their own challenges. Earn awesome new abilities, watch out for treacherous traps and collect cool power-ups in this fast-paced battle for survival! As well as the onslaught of hungry, egg-eating dinosaurs, there are also natural disasters to contend with like fast-growing seaweed and rolling rocks! For extra points, tap on the bones, pick, skull and hammer as they appear., folder: dinodefense"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cre1l"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Defense" },
+        "gsx$short": {
+          "$t": "Get ready for prehistoric fun with Dino Defence!"
+        },
+        "gsx$ios": {
+          "$t": "http://itunes.apple.com/ca/app/readability/id500775997?mt\u003d8"
+        },
+        "gsx$android": { "$t": "" },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Protect your eggs from charging hordes of reptilian predators! As a relentless swarm of carnivorous dinos comes after your eggs, you must repel them using a battery of ingenious dino defences. Play 10 different levels in three distinct environments, each with their own challenges. Earn awesome new abilities, watch out for treacherous traps and collect cool power-ups in this fast-paced battle for survival! As well as the onslaught of hungry, egg-eating dinosaurs, there are also natural disasters to contend with like fast-growing seaweed and rolling rocks! For extra points, tap on the bones, pick, skull and hammer as they appear."
+        },
+        "gsx$folder": { "$t": "dinodefense" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/chk2m"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Adventure, short: Live an ordinary day in the extraordinary life of Dino Dan!, ios: https://itunes.apple.com/us/app/dino-dan-dino-adventure/id562210347?mt\u003d8, sales: http://www.sinkingship.ca/merchandise/merchandise.html, description: With this interactive tap-and-drag adventure game, you can help solve a dino experiment by finding and cleverly combining items just like Dino Dan does on the show. The fun starts when Dan discovers a mystery dino under his bed. Together, you and Dan set off an adventure that takes you from Dan’s room to his school and everywhere in between, to find out what the mystery dino is and how it got to be under Dan's bed. Find all the craftily hidden objects and match them to identical  shapes. As you explore Dan's school yard, playground and back yard, you’ll have to use your brains, imagination and knowledge of the show to figure out this perplexing prehistoric puzzle., folder: dinoadventure"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/chk2m"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Adventure" },
+        "gsx$short": {
+          "$t": "Live an ordinary day in the extraordinary life of Dino Dan!"
+        },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/us/app/dino-dan-dino-adventure/id562210347?mt\u003d8"
+        },
+        "gsx$android": { "$t": "" },
+        "gsx$sales": {
+          "$t": "http://www.sinkingship.ca/merchandise/merchandise.html"
+        },
+        "gsx$description": {
+          "$t": "With this interactive tap-and-drag adventure game, you can help solve a dino experiment by finding and cleverly combining items just like Dino Dan does on the show. The fun starts when Dan discovers a mystery dino under his bed. Together, you and Dan set off an adventure that takes you from Dan’s room to his school and everywhere in between, to find out what the mystery dino is and how it got to be under Dan's bed. Find all the craftily hidden objects and match them to identical  shapes. As you explore Dan's school yard, playground and back yard, you’ll have to use your brains, imagination and knowledge of the show to figure out this perplexing prehistoric puzzle."
+        },
+        "gsx$folder": { "$t": "dinoadventure" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/ciyn3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Dig Site, short: Ever wanted to be a paleontologist-in-training just like Dino Dan?, ios: https://itunes.apple.com/ca/app/dino-dan-dino-dig-site/id585365096?mt\u003d8, description: With the Dino Dig Site app, you can uncover the amazing world of the dinosaurs hidden beneath the ground! Just pick a fossil-rich dig site, dig up the hidden dino bones using the tools of the trade, assemble them and then visit them in your very own museum! Along the way, you'll also find all kinds of awesome fossils. Your four cool tools are the pick-axe (for breaking up rocks); the shovel (for digging-up earth); the brush (for dusting off bones) and the sifter (for sorting out fossils). You'll explore five cool dig locations, all based on real, and very different, types of terrain., folder: dinodigsite"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/ciyn3"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Dig Site" },
+        "gsx$short": {
+          "$t": "Ever wanted to be a paleontologist-in-training just like Dino Dan?"
+        },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/ca/app/dino-dan-dino-dig-site/id585365096?mt\u003d8"
+        },
+        "gsx$android": { "$t": "" },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "With the Dino Dig Site app, you can uncover the amazing world of the dinosaurs hidden beneath the ground! Just pick a fossil-rich dig site, dig up the hidden dino bones using the tools of the trade, assemble them and then visit them in your very own museum! Along the way, you'll also find all kinds of awesome fossils. Your four cool tools are the pick-axe (for breaking up rocks); the shovel (for digging-up earth); the brush (for dusting off bones) and the sifter (for sorting out fossils). You'll explore five cool dig locations, all based on real, and very different, types of terrain."
+        },
+        "gsx$folder": { "$t": "dinodigsite" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/ckd7g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Dodge, short: It's a dino stampede!, ios: https://itunes.apple.com/us/app/dino-dan-dino-dodge/id585629951?mt\u003d8#, android: https://play.google.com/store/apps/details?id\u003dcom.sinkingship.dinododge, description: Tap the screen to help Trek dodge the oncoming dino stampede. Tap and drag to avoid colliding with giant dinos and other obstacles like rolling logs, fallen trees and toys that Trek forgot to put away. The truly enormous scale of dinosaurs becomes apparent as they approach from far away and gradually dwarf the tiny figure of Trek. Players must learn to judge when a path that looks clear will actually be blocked by a dinosaur's massive feet or tail., folder: dinododge"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/ckd7g"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Dodge" },
+        "gsx$short": { "$t": "It's a dino stampede!" },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/us/app/dino-dan-dino-dodge/id585629951?mt\u003d8#"
+        },
+        "gsx$android": {
+          "$t": "https://play.google.com/store/apps/details?id\u003dcom.sinkingship.dinododge"
+        },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Tap the screen to help Trek dodge the oncoming dino stampede. Tap and drag to avoid colliding with giant dinos and other obstacles like rolling logs, fallen trees and toys that Trek forgot to put away. The truly enormous scale of dinosaurs becomes apparent as they approach from far away and gradually dwarf the tiny figure of Trek. Players must learn to judge when a path that looks clear will actually be blocked by a dinosaur's massive feet or tail."
+        },
+        "gsx$folder": { "$t": "dinododge" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/clrrx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Racer, short: The ancient race is on., ios: https://itunes.apple.com/us/app/dino-dan-dino-dodge/id585629951?mt\u003d8#, android: https://play.google.com/store/apps/details?id\u003dcom.sinkingship.dinododge, description: Classic console-style gameplay – now with dinosaurs and on your tablet! Be the first to cross the finish line as you guide your dinosaur through four challenging courses: a beach, a volcano, a jungle and Trek's school. Opponent dinosaurs will try to beat you to the finish line while giant obstacle dinos will try to chomp you or whack you. As you earn more points you can unlock more dinosaurs to race and even Trek himself. Watch out for power-ups and other ways to earn extra points. Good luck, get ready and go! , folder: dinoracer"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/clrrx"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Racer" },
+        "gsx$short": { "$t": "The ancient race is on." },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/us/app/dino-dan-dino-dodge/id585629951?mt\u003d8#"
+        },
+        "gsx$android": {
+          "$t": "https://play.google.com/store/apps/details?id\u003dcom.sinkingship.dinododge"
+        },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Classic console-style gameplay – now with dinosaurs and on your tablet! Be the first to cross the finish line as you guide your dinosaur through four challenging courses: a beach, a volcano, a jungle and Trek's school. Opponent dinosaurs will try to beat you to the finish line while giant obstacle dinos will try to chomp you or whack you. As you earn more points you can unlock more dinosaurs to race and even Trek himself. Watch out for power-ups and other ways to earn extra points. Good luck, get ready and go! "
+        },
+        "gsx$folder": { "$t": "dinoracer" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cyevm"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "title: Dino Player, short: Beware: T-Rex on the premises!, ios: http://itunes.apple.com/us/app/dino-dan-dino-player/id553277345?ls\u003d1, android: https://play.google.com/store/apps/details?id\u003dcom.sinkingshipinteractive.dvdcase1, description: Dino Player is an added bonus for fans who buy Dino Dan DVDs, Just download the free app and then turn over your DVD case so that its back is facing up and set it on a steady surface (must be an official Dino Dan NCircle Entertainment DVD). Just point your camera-enabled smartphone or tablet at the DVD case and, lo and behold, before your very eyes appears a snarling, snorting, stomping dinosaur! Depending on which DVD you're scanning you might see a Tyrannosaurus Rex, a Stegosaurus or a Triceratops. And if you're lucky, the largest meat-eater ever known to have walked the earth will be walking on your DVD case – Giganotosaurus. Holding your device you can walk around to view your virtual dino from different angles., folder: dinoplayer"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cyevm"
+          }
+        ],
+        "gsx$series": { "$t": "Dino Dan" },
+        "gsx$title": { "$t": "Dino Player" },
+        "gsx$short": { "$t": "Beware: T-Rex on the premises!" },
+        "gsx$ios": {
+          "$t": "http://itunes.apple.com/us/app/dino-dan-dino-player/id553277345?ls\u003d1"
+        },
+        "gsx$android": {
+          "$t": "https://play.google.com/store/apps/details?id\u003dcom.sinkingshipinteractive.dvdcase1"
+        },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Dino Player is an added bonus for fans who buy Dino Dan DVDs, Just download the free app and then turn over your DVD case so that its back is facing up and set it on a steady surface (must be an official Dino Dan NCircle Entertainment DVD). Just point your camera-enabled smartphone or tablet at the DVD case and, lo and behold, before your very eyes appears a snarling, snorting, stomping dinosaur! Depending on which DVD you're scanning you might see a Tyrannosaurus Rex, a Stegosaurus or a Triceratops. And if you're lucky, the largest meat-eater ever known to have walked the earth will be walking on your DVD case – Giganotosaurus. Holding your device you can walk around to view your virtual dino from different angles."
+        },
+        "gsx$folder": { "$t": "dinoplayer" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cztg3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "title: Giver Playsets, short: Start a chain reaction!, ios: https://itunes.apple.com/us/app/giver-playsets/id577140150?ls\u003d1, android: https://play.google.com/store/apps/details?id\u003dcom.sinkingship.playsets, description: Playsets is a fun, quick-paced match-three game themed around playground equipment. Players see an array of playground structures, and they must swap them in such a way that a string of three or more identical pieces are aligned.\u003cp\u003eIf three or more pieces successfully line up, they are taken off the game board and automatically swapped out with new ones. Sometimes this leads to a chain effect that leads to additional pieces lining up. Players must collect at least one piece of each type to set up the playground. Each piece is worth a certain amount in funding dollars and a fixed amount must be met. Players must reach these goals before the timer runs out.\u003c/p\u003e, folder: playsets"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/cztg3"
+          }
+        ],
+        "gsx$series": { "$t": "Giver" },
+        "gsx$title": { "$t": "Giver Playsets" },
+        "gsx$short": { "$t": "Start a chain reaction!" },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/us/app/giver-playsets/id577140150?ls\u003d1"
+        },
+        "gsx$android": {
+          "$t": "https://play.google.com/store/apps/details?id\u003dcom.sinkingship.playsets"
+        },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Playsets is a fun, quick-paced match-three game themed around playground equipment. Players see an array of playground structures, and they must swap them in such a way that a string of three or more identical pieces are aligned.\u003cp\u003eIf three or more pieces successfully line up, they are taken off the game board and automatically swapped out with new ones. Sometimes this leads to a chain effect that leads to additional pieces lining up. Players must collect at least one piece of each type to set up the playground. Each piece is worth a certain amount in funding dollars and a fixed amount must be met. Players must reach these goals before the timer runs out.\u003c/p\u003e"
+        },
+        "gsx$folder": { "$t": "playsets" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/d180g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "title: Giver Playzelle, short: A playground puzzle!, ios: https://itunes.apple.com/ca/app/readability/id571420055?mt\u003d8, android: https://play.google.com/store/apps/details?id\u003dcom.sinkingship.playzelle, description: Playzelle is a simple but surprisingly challenging puzzle game where players must arrange playground items to match the accompanying blueprint before time runs out.\u003cp\u003ePlayers are shown a number of playground items, and they must rotate groups of four of them either clockwise or counterclockwise to match the specified design. Some can be solved with just one move, while others require five or more. Spatial reasoning and problem-solving skills are rewarded — two things needed to be a real playground designer.\u003c/p\u003e, folder: playzelle"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/oda/public/values/d180g"
+          }
+        ],
+        "gsx$series": { "$t": "Giver" },
+        "gsx$title": { "$t": "Giver Playzelle" },
+        "gsx$short": { "$t": "A playground puzzle!" },
+        "gsx$ios": {
+          "$t": "https://itunes.apple.com/ca/app/readability/id571420055?mt\u003d8"
+        },
+        "gsx$android": {
+          "$t": "https://play.google.com/store/apps/details?id\u003dcom.sinkingship.playzelle"
+        },
+        "gsx$sales": { "$t": "" },
+        "gsx$description": {
+          "$t": "Playzelle is a simple but surprisingly challenging puzzle game where players must arrange playground items to match the accompanying blueprint before time runs out.\u003cp\u003ePlayers are shown a number of playground items, and they must rotate groups of four of them either clockwise or counterclockwise to match the specified design. Some can be solved with just one move, while others require five or more. Spatial reasoning and problem-solving skills are rewarded — two things needed to be a real playground designer.\u003c/p\u003e"
+        },
+        "gsx$folder": { "$t": "playzelle" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2306 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values"
+    },
+    "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": { "type": "text", "$t": "awards" },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      { "name": { "$t": "ronald" }, "email": { "$t": "ronald@sinkingship.ca" } }
+    ],
+    "openSearch$totalResults": { "$t": "75" },
+    "openSearch$startIndex": { "$t": "1" },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cokwr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2015, type: Winner, description: Grand Prize for Best Production, All Categories"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cokwr"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Grand Prize for Best Production, All Categories"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cpzh4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Banff World Media Festival, year: 2015, type: Nominated, description: Banff World Media Festival - Pre-School Category "
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cpzh4"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Banff World Media Festival" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Banff World Media Festival - Pre-School Category "
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cre1l"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Winner, description: Outstanding Pre-School Children’s Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cre1l"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Outstanding Pre-School Children’s Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/chk2m"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/chk2m"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ciyn3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ciyn3"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ckd7g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Children’s Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ckd7g"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Outstanding Children’s Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/clrrx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Writing in a Children’s or Pre-School Children’s Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/clrrx"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Outstanding Writing in a Children’s or Pre-School Children’s Series"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cyevm"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cyevm"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Outstanding Directing in a Children’s or Pre-School Children’s Series: J.J. Johnson"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cztg3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Single Camera Editing"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cztg3"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Outstanding Single Camera Editing" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d180g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Sound Editing – Live Action"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d180g"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Outstanding Sound Editing – Live Action" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d2mkx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2015, type: Nominated, description: Outstanding Hairstyling"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d2mkx"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Outstanding Hairstyling" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cssly"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2015, type: Nominated, description: Award of Excellence for Best Television Program, All Genres, Ages 6–8 Category"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cssly"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Award of Excellence for Best Television Program, All Genres, Ages 6–8 Category"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cu76f"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2015, type: Winner, description: Award of Excellence for Best Television Program, All Genres, Ages 6–8 Category"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cu76f"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence for Best Television Program, All Genres, Ages 6–8 Category"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cvlqs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2015, type: Nominated, description: Award of Excellence, Best Convergent Website"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cvlqs"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Award of Excellence, Best Convergent Website"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cx0b9"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2015, type: Nominated, description: Award of Excellence, Best Convergent Website"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/cx0b9"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Award of Excellence, Best Convergent Website"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d9ney"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Young Artist, year: 2015, type: Winner, description: Outstanding Young Ensemble in a TV Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d9ney"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Young Artist" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Outstanding Young Ensemble in a TV Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/db1zf"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Young Artist, year: 2015, type: Winner, description: Peyton Kennedy - Winner of Best Performance in a TV Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/db1zf"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Young Artist" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Peyton Kennedy - Winner of Best Performance in a TV Series"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dcgjs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Writers Guild of Canada, year: 2015, type: Nominated, description: Children \u0026 Youth - Annedroids, Season 1 \"New Pals\""
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dcgjs"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Writers Guild of Canada" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Children \u0026 Youth - Annedroids, Season 1 \"New Pals\""
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ddv49"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "award: Parents Choice, year: 2015, type: Winner, description: Parents' Choice Gold Honor Award Winner 2015"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ddv49"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$award": { "$t": "Parents Choice" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Parents' Choice Gold Honor Award Winner 2015"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d415a"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Parents Choice, year: 2015, type: Winner, description: Parents' Choice Silver Honor Award Winner 2015"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d415a"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Parents Choice" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Parents' Choice Silver Honor Award Winner 2015"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d5fpr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Parents Choice, year: 2015, type: Winner, description: Parents' Choice Silver Honor Award Winner 2015"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d5fpr"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Parents Choice" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Parents' Choice Silver Honor Award Winner 2015"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d6ua4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2015, type: Nominated, description: Best Children's or Youth Non-Fiction Program or Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d6ua4"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Children's or Youth Non-Fiction Program or Series"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d88ul"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Scarlett and Isaiah" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2015, type: Nominated, description: Best Direction in a Children's or Youth Program or Series, J.J. Johnson"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/d88ul"
+          }
+        ],
+        "gsx$show": { "$t": "This is Scarlett and Isaiah" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Direction in a Children's or Youth Program or Series, J.J. Johnson"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dkvya"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2015, type: Nominated, description: Best Writing in a Children's or Youth Program or Series, J.J Johnson \u0026 Christin Simms"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dkvya"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Writing in a Children's or Youth Program or Series, J.J Johnson \u0026 Christin Simms"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dmair"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: KidScreen, year: 2015, type: Nominated, description: Best New Series, Kids Category"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dmair"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "KidScreen" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best New Series, Kids Category" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dnp34"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: KidScreen, year: 2015, type: Nominated, description: Best Non-Animated or Mixed Series, Preschool Category"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dnp34"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "KidScreen" },
+        "gsx$year": { "$t": "2015" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Non-Animated or Mixed Series, Preschool Category"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dp3nl"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Science Film Festival, year: 2014, type: Winner, description: The IPST Education Award Winner"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dp3nl"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Science Film Festival" },
+        "gsx$year": { "$t": "2014" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "The IPST Education Award Winner" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/df9om"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: Daytime Emmy, year: 2014, type: Nominated, description: Outstanding Children's Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/df9om"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "Daytime Emmy" },
+        "gsx$year": { "$t": "2014" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Outstanding Children's Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dgo93"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Scarlett and Isaiah" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2014, type: Finalist, description: Best Up to 6 Non-Fiction"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dgo93"
+          }
+        ],
+        "gsx$show": { "$t": "This is Scarlett and Isaiah" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2014" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Best Up to 6 Non-Fiction" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/di2tg"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan: Trek's Adventures" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2014, type: Finalist, description: Best Up to 6 Fiction"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/di2tg"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan: Trek's Adventures" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2014" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Best Up to 6 Fiction" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/djhdx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2013, type: Nominated, description: Best Television Program, All Genres, Ages 3-5 (Japan-Ninja)"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/djhdx"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Television Program, All Genres, Ages 3-5 (Japan-Ninja)"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dw4je"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2013, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dw4je"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dxj3v"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2013, type: Nominated, description: Best Television Program, All Genres, Ages 3-5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dxj3v"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Television Program, All Genres, Ages 3-5"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dyxo8"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2013, type: Nominated, description: Best Convergent App for Dino Dan Mobile Apps"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dyxo8"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Convergent App for Dino Dan Mobile Apps"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e0c8p"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "award: Shaw Rocket Prize, year: 2013, type: Finalist, description: Preschool, Ages 0-5 - Finalist "
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e0c8p"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$award": { "$t": "Shaw Rocket Prize" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Preschool, Ages 0-5 - Finalist " }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dqi9q"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2013, type: Winner, description: Best Television Program, All Genres, Ages 6-8 (Newmarket- Car Park)"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dqi9q"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Best Television Program, All Genres, Ages 6-8 (Newmarket- Car Park)"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/drwu7"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2013, type: Nominated, description: Best Convergent Website for Giver-tv.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/drwu7"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Convergent Website for Giver-tv.com" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dtbek"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: KidScreen, year: 2013, type: Finalist, description: Best Kids Companion Website for Giver.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dtbek"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "KidScreen" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Best Kids Companion Website for Giver.com" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dupz1"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2013, type: Nominated, description: Best Children or Youth's Non-Fiction Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/dupz1"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Children or Youth's Non-Fiction Series"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e7d2q"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "award: Canadian Screen, year: 2013, type: Nominated, description: Best Host in a Children's Series - Michael Lagimodiere"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e7d2q"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$award": { "$t": "Canadian Screen" },
+        "gsx$year": { "$t": "2013" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Host in a Children's Series - Michael Lagimodiere"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e8rn7"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: KidScreen, year: 2012, type: Winner, description: Best One-Off, Special or TV Movie, Preschool Category"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e8rn7"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "KidScreen" },
+        "gsx$year": { "$t": "2012" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Best One-Off, Special or TV Movie, Preschool Category"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ea67k"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2011, type: Nominated, description: Best Directing"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ea67k"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2011" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Directing" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ebks1"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2011, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ebks1"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2011" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e1qt2"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Young Artist, year: 2011, type: Winner, description: Winner for Dino Dan"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e1qt2"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Young Artist" },
+        "gsx$year": { "$t": "2011" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Winner for Dino Dan" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e35dj"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "The Ocean Room" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2011, type: Winner, description: Award of Excellence for All Genres 3-5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e35dj"
+          }
+        ],
+        "gsx$show": { "$t": "The Ocean Room" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2011" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Award of Excellence for All Genres 3-5" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e4jxw"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Shaw Rocket Prize, year: 2010, type: Winner, description: Winner for Dino Dan"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e4jxw"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Shaw Rocket Prize" },
+        "gsx$year": { "$t": "2010" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Winner for Dino Dan" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e5yid"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2010, type: Nominated, description: Best Visual Effects"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/e5yid"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2010" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Visual Effects" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eilm2"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2010, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eilm2"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2010" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ek06j"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "The Ocean Room" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2010, type: Winner, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ek06j"
+          }
+        ],
+        "gsx$show": { "$t": "The Ocean Room" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2010" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eleqw"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2009, type: Winner, description: Award of Excellence for All Genres 3-5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eleqw"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2009" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Award of Excellence for All Genres 3-5" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/emtbd"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2009, type: Nominated, description: Best Original Cross-Platform Content: arewethereyet.tv"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/emtbd"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2009" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Original Cross-Platform Content: arewethereyet.tv"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eczce"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2009, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eczce"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2009" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eedwv"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2009, type: Nominated, description: Best Host, Children's Series for TJ Samuel \u0026 Tristan Samuel"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eedwv"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2009" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Host, Children's Series for TJ Samuel \u0026 Tristan Samuel"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/efsh8"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2009, type: Winner, description: Award of Excellence for Interstitials, All Ages"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/efsh8"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2009" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence for Interstitials, All Ages"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eh71p"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Are We There Yet" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2008, type: Nominated, description: Best Up to 6 Non-Fiction"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eh71p"
+          }
+        ],
+        "gsx$show": { "$t": "Are We There Yet" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2008" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Up to 6 Non-Fiction" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/etu5e"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2008, type: Finalist, description: Best Up to 6 Non-Fiction"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/etu5e"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2008" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Best Up to 6 Non-Fiction" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ev8pv"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2007, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ev8pv"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2007" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ewna8"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2007, type: Winner, description: Award of Excellence for Interstitials, All Ages"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ewna8"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2007" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence for Interstitials, All Ages"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ey1up"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Emily Yeung" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2007, type: Nominated, description: Best Preschool Series"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ey1up"
+          }
+        ],
+        "gsx$show": { "$t": "This is Emily Yeung" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2007" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": { "$t": "Best Preschool Series" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eo7vq"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Emily Yeung" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2007, type: Winner, description: Special Jury Prize Award"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/eo7vq"
+          }
+        ],
+        "gsx$show": { "$t": "This is Emily Yeung" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2007" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Special Jury Prize Award" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/epmg7"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Emily Yeung" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2007, type: Winner, description: Award of Excellence, All Genres 3-5"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/epmg7"
+          }
+        ],
+        "gsx$show": { "$t": "This is Emily Yeung" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2007" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Award of Excellence, All Genres 3-5" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/er10k"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: NHK Japan Prize, year: 2006, type: Finalist, description: Web Division: for producing thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/er10k"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "NHK Japan Prize" },
+        "gsx$year": { "$t": "2006" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": {
+          "$t": "Web Division: for producing thisisdanielcook.com"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/esfl1"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: NHK Japan Prize, year: 2006, type: Finalist, description: Early Education Division for thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/esfl1"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "NHK Japan Prize" },
+        "gsx$year": { "$t": "2006" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": {
+          "$t": "Early Education Division for thisisdanielcook.com"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a59y2"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2006, type: Winner, description: Web Prize Winner for thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a59y2"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2006" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": { "$t": "Web Prize Winner for thisisdanielcook.com" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a6oij"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2006, type: Winner, description: Preschool Web Prize for thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a6oij"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2006" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Preschool Web Prize for thisisdanielcook.com"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a832w"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Prix Jeunesse International, year: 2006, type: Finalist, description: Television Prize for thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a832w"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Prix Jeunesse International" },
+        "gsx$year": { "$t": "2006" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "Television Prize for thisisdanielcook.com" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a9hnd"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: NHK Japan Prize, year: 2005, type: Finalist, description: Web Division for producing thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a9hnd"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "NHK Japan Prize" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": {
+          "$t": "Web Division for producing thisisdanielcook.com"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/9znoe"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2005, type: Nominated, description: Best Preschool Series for This is Daniel Cook"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/9znoe"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Preschool Series for This is Daniel Cook"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a128v"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2005, type: Nominated, description: Best Direction in a Children’s/Youth Program/Series for J.J. Johnson"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a128v"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Direction in a Children’s/Youth Program/Series for J.J. Johnson"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a2gt8"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Gemini, year: 2005, type: Nominated, description: Best Performance in a Children’s/Youth Program/Series for Daniel Cook"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a2gt8"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Gemini" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Nominated" },
+        "gsx$description": {
+          "$t": "Best Performance in a Children’s/Youth Program/Series for Daniel Cook"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a3vdp"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: VIDFEST, year: 2005, type: Winner, description: 3rd place winner for www.thisisdanielcook.com in Interactive Design"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/a3vdp"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "VIDFEST" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "3rd place winner for www.thisisdanielcook.com in Interactive Design"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/agihe"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2005, type: Winner, description: Award of Excellence Awarded for “Best in Show”"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/agihe"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence Awarded for “Best in Show”"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ahx1v"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2005, type: Winner, description: Award of Excellence Awarded for “All genres 3-5”"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ahx1v"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence Awarded for “All genres 3-5”"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ajbm8"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "award: Youth Media Alliance, year: 2005, type: Winner, description: Award of Excellence Awarded for thisisdanielcook.com"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/ajbm8"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$award": { "$t": "Youth Media Alliance" },
+        "gsx$year": { "$t": "2005" },
+        "gsx$type": { "$t": "Winner" },
+        "gsx$description": {
+          "$t": "Award of Excellence Awarded for thisisdanielcook.com"
+        }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/akq6p"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "award: Shaw Rocket Prize, year: 2014, type: Finalist, description: 2014 Finalist, Ages 6-12"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od7/public/values/akq6p"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$award": { "$t": "Shaw Rocket Prize" },
+        "gsx$year": { "$t": "2014" },
+        "gsx$type": { "$t": "Finalist" },
+        "gsx$description": { "$t": "2014 Finalist, Ages 6-12" }
+      }
+    ]
+  }
+}

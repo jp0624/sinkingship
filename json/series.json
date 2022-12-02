@@ -1,0 +1,776 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values"
+    },
+    "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": { "type": "text", "$t": "series" },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      { "name": { "$t": "ronald" }, "email": { "$t": "ronald@sinkingship.ca" } }
+    ],
+    "openSearch$totalResults": { "$t": "18" },
+    "openSearch$startIndex": { "$t": "1" },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cokwr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Sinking Ship Entertainment" },
+        "content": {
+          "type": "text",
+          "$t": "description: \u003cb\u003e Sinking Ship Entertainment \u003c/b\u003e is the award-winning production and digital media company that specializes in kids’ live-action cross-platform content. \u003cbr\u003e \u003cbr\u003e Since its launch in 2004, Sinking Ship Entertainment has rapidly built a reputation for high quality ground-breaking work in both their original series and companion interactive experiences. The company has created and produced some of the industry’s most successful brands including, Odd Squad, Annedroids, Dino Dan, This is Daniel Cook, This is Emily Yeung and Are we there yet?: World Adventure which are seen in over 130 countries on leading children’s channels and digital platforms. In Canada, Sinking Ship series air on five networks. Internationally, Sinking Ship series are seen in over 130 countries over 57 different broadcasters.\n, videourl: https://www.youtube.com/embed/GVubnxGnavc, foldername: sse, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cokwr"
+          }
+        ],
+        "gsx$show": { "$t": "Sinking Ship Entertainment" },
+        "gsx$episodesandlength": { "$t": "" },
+        "gsx$distributedby": { "$t": "" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "\u003cb\u003e Sinking Ship Entertainment \u003c/b\u003e is the award-winning production and digital media company that specializes in kids’ live-action cross-platform content. \u003cbr\u003e \u003cbr\u003e Since its launch in 2004, Sinking Ship Entertainment has rapidly built a reputation for high quality ground-breaking work in both their original series and companion interactive experiences. The company has created and produced some of the industry’s most successful brands including, Odd Squad, Annedroids, Dino Dan, This is Daniel Cook, This is Emily Yeung and Are we there yet?: World Adventure which are seen in over 130 countries on leading children’s channels and digital platforms. In Canada, Sinking Ship series air on five networks. Internationally, Sinking Ship series are seen in over 130 countries over 57 different broadcasters.\n"
+        },
+        "gsx$ssecontact": { "$t": "" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/GVubnxGnavc" },
+        "gsx$foldername": { "$t": "sse" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cpzh4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Annedroids" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 26 x 30 mins, distributedby: Sinking Ship Distribution, deliverydate: July 2014 on Amazon Prime and August 2014 on TVO, description: \u003ci\u003eAnnedroids\u003c/i\u003e is a science-based action-adventure series for 6-9 year olds. It follows 11-year old genius and kid-scientist Anne, who loves nothing more than doing cool experiments. Anne has invented and built her own amazing androids to help her out. Far more than mere 'robots' (simple machines that can only perform single tasks), \u003ci\u003eAnnedroids\u003c/i\u003e are thinking, feeling creations with curious, endearing personalities. Thanks to their insatiable curiosity, Anne's experiments always lead to unforeseen complications, hijinks, and misadventures. One day, new kid on the block, Nick, discovers Anne's secret junkyard laboratory. Nick enlists the help of Shania, his slightly eccentric neighbour, and they soon befriend Anne and her mechanical companions. Nick and Shania have uncanny ways of figuring out the real-life solutions to Anne's scientific problems. Needless to say, when two girls, one boy and three androids join forces, excitement and discovery follow.  , ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/xG-KeIdlwPk, foldername: annedroids, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cpzh4"
+          }
+        ],
+        "gsx$show": { "$t": "Annedroids" },
+        "gsx$episodesandlength": { "$t": "26 x 30 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": {
+          "$t": "July 2014 on Amazon Prime and August 2014 on TVO"
+        },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "\u003ci\u003eAnnedroids\u003c/i\u003e is a science-based action-adventure series for 6-9 year olds. It follows 11-year old genius and kid-scientist Anne, who loves nothing more than doing cool experiments. Anne has invented and built her own amazing androids to help her out. Far more than mere 'robots' (simple machines that can only perform single tasks), \u003ci\u003eAnnedroids\u003c/i\u003e are thinking, feeling creations with curious, endearing personalities. Thanks to their insatiable curiosity, Anne's experiments always lead to unforeseen complications, hijinks, and misadventures. One day, new kid on the block, Nick, discovers Anne's secret junkyard laboratory. Nick enlists the help of Shania, his slightly eccentric neighbour, and they soon befriend Anne and her mechanical companions. Nick and Shania have uncanny ways of figuring out the real-life solutions to Anne's scientific problems. Needless to say, when two girls, one boy and three androids join forces, excitement and discovery follow.  "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/xG-KeIdlwPk" },
+        "gsx$foldername": { "$t": "annedroids" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cre1l"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Odd Squad" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 40 x 22 mins, distributedby: Sinking Ship Distribution, deliverydate: Fall 2014, description: \u003ci\u003eOdd Squad\u003c/i\u003e is a live-action comedy about two kids, Agent Olive and Agent Otto, who work for a government agency run by kids in suits who are equipped with the world's most advanced and unpredictable gadgetry. Whenever anything strange, unusual or just plain nuts (including giant nuts falling out of the sky) happens, it's Odd Squad's job to put things right again. \u003ci\u003eOdd Squad\u003c/i\u003e has a fun, goofy, irreverent style that includes sight gags, one-liners, absurd situations and plenty of slapstick. Embedded in each episode is a math concept aimed at kids in grades 1-2. For example, in one episode, Olive and Otto are called-on to help a pizza delivery lady who keeps doubling herself. In the process of helping her, Olive and Otto also explore and learn what happens when you double a number. \u003ci\u003eOdd Squad\u003c/i\u003e is a fun and engaging way for kids to become familiar with, and master, key math concepts and operations. , ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/0VjQjhfevwA, foldername: oddsquad, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cre1l"
+          }
+        ],
+        "gsx$show": { "$t": "Odd Squad" },
+        "gsx$episodesandlength": { "$t": "40 x 22 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "Fall 2014" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "\u003ci\u003eOdd Squad\u003c/i\u003e is a live-action comedy about two kids, Agent Olive and Agent Otto, who work for a government agency run by kids in suits who are equipped with the world's most advanced and unpredictable gadgetry. Whenever anything strange, unusual or just plain nuts (including giant nuts falling out of the sky) happens, it's Odd Squad's job to put things right again. \u003ci\u003eOdd Squad\u003c/i\u003e has a fun, goofy, irreverent style that includes sight gags, one-liners, absurd situations and plenty of slapstick. Embedded in each episode is a math concept aimed at kids in grades 1-2. For example, in one episode, Olive and Otto are called-on to help a pizza delivery lady who keeps doubling herself. In the process of helping her, Olive and Otto also explore and learn what happens when you double a number. \u003ci\u003eOdd Squad\u003c/i\u003e is a fun and engaging way for kids to become familiar with, and master, key math concepts and operations. "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/0VjQjhfevwA" },
+        "gsx$foldername": { "$t": "oddsquad" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/chk2m"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Chirp" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 52 x 11 mins, distributedby: Sinking Ship Distribution, deliverydate: Spring 2015, description: Chirp, Squawk and Tweet are best friends who use their imaginations and everyday objects to get them in – and out of – fantastically fun adventures and hilariously sticky predicaments. What would it be like to be a pirate or travel in space, dive underwater on a dolphin or ride a dinosaur? Chirp, Tweet and Squawk may imagine themselves on grand quests through jungles and on spy missions, but ultimately their imaginations get them into trouble. That's where the Mail Squirrel comes in handy. Each day, at the just the right time, the Mail Squirrel drops off a package for Chirp. Everyday items like handheld fans, elastic bands or paper clips become play-savers when Chirp and his friends engineer them into amazing gadgets. By using characters kids relate to and laugh with, coupled with situations they're engaged and entertained by, \u003ci\u003eChirp\u003c/i\u003e, like its namesake magazine, opens up the world to preschoolers, one awesome adventure at a time., ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/pqJVsH53ix8, foldername: chirp, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/chk2m"
+          }
+        ],
+        "gsx$show": { "$t": "Chirp" },
+        "gsx$episodesandlength": { "$t": "52 x 11 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "Spring 2015" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "Chirp, Squawk and Tweet are best friends who use their imaginations and everyday objects to get them in – and out of – fantastically fun adventures and hilariously sticky predicaments. What would it be like to be a pirate or travel in space, dive underwater on a dolphin or ride a dinosaur? Chirp, Tweet and Squawk may imagine themselves on grand quests through jungles and on spy missions, but ultimately their imaginations get them into trouble. That's where the Mail Squirrel comes in handy. Each day, at the just the right time, the Mail Squirrel drops off a package for Chirp. Everyday items like handheld fans, elastic bands or paper clips become play-savers when Chirp and his friends engineer them into amazing gadgets. By using characters kids relate to and laugh with, coupled with situations they're engaged and entertained by, \u003ci\u003eChirp\u003c/i\u003e, like its namesake magazine, opens up the world to preschoolers, one awesome adventure at a time."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/pqJVsH53ix8" },
+        "gsx$foldername": { "$t": "chirp" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/ciyn3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Dino Dan" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 52 x 11 min / 26 x 30 min, distributedby: Breakthrough Entertainment, websitename: dinodan.com, websiteurl: http://dinodan.com, description: An all-star cast of celebrity comedians share the screen with 18 true-to-life, photo-realistic dinosaurs in the live-action, CGI adventure series \u003ci\u003eDino Dan\u003c/i\u003e, starring Jason Spevack (\u003ci\u003eFever Pitch, Sunshine Cleaning\u003c/i\u003e) as Dan Henderson. Dan – nicknamed 'Dino Dan' by his friends – is an ordinary 10-year old boy with an extraordinary obsession: he eats, sleeps and breathes dinosaurs. A typical day for Dan isn’t complete unless he’s racing a T-Rex on his school track, finding a Pterodactylus in his attic or getting a baby Brachiosaurus back to its mom. In \u003ci\u003eDino Dan\u003c/i\u003e, you don’t need to imagine dinosaurs - because they’re everywhere! But while Dino Dan is an expert in all things dinosaurs, he also specializes in getting his willing crew of classmates, teachers and family pulled into his larger-than-life adventures. Personalities including Andrea Martin, Mark McKinney, Kevin McDonald, Sean Cullen, Jayne Eastwood and Jon Dore make guest appearances in the series., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/fnuPgiTbGB0, foldername: dinodan, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/ciyn3"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan" },
+        "gsx$episodesandlength": { "$t": "52 x 11 min / 26 x 30 min" },
+        "gsx$distributedby": { "$t": "Breakthrough Entertainment" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "dinodan.com" },
+        "gsx$websiteurl": { "$t": "http://dinodan.com" },
+        "gsx$description": {
+          "$t": "An all-star cast of celebrity comedians share the screen with 18 true-to-life, photo-realistic dinosaurs in the live-action, CGI adventure series \u003ci\u003eDino Dan\u003c/i\u003e, starring Jason Spevack (\u003ci\u003eFever Pitch, Sunshine Cleaning\u003c/i\u003e) as Dan Henderson. Dan – nicknamed 'Dino Dan' by his friends – is an ordinary 10-year old boy with an extraordinary obsession: he eats, sleeps and breathes dinosaurs. A typical day for Dan isn’t complete unless he’s racing a T-Rex on his school track, finding a Pterodactylus in his attic or getting a baby Brachiosaurus back to its mom. In \u003ci\u003eDino Dan\u003c/i\u003e, you don’t need to imagine dinosaurs - because they’re everywhere! But while Dino Dan is an expert in all things dinosaurs, he also specializes in getting his willing crew of classmates, teachers and family pulled into his larger-than-life adventures. Personalities including Andrea Martin, Mark McKinney, Kevin McDonald, Sean Cullen, Jayne Eastwood and Jon Dore make guest appearances in the series."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/fnuPgiTbGB0" },
+        "gsx$foldername": { "$t": "dinodan" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/ckd7g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Dino Dan:\u003cbr/\u003eTrek's Adventures"
+        },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 52 x 11 min / 26 x 30 min, distributedby: Breakthrough Entertainment, websitename: dinodan.com, websiteurl: http://dinodan.com, description: The continuing adventures of \u003ci\u003eDino Dan\u003c/i\u003e go to the next level with 16 new prehistoric creatures, a new gang of friends and another Henderson brother who can see dinosaurs. That’s right – now Dan's younger brother, Trek, can see the dinosaurs too! At eight years old, Trek has become just as fascinated with dinosaurs as his big brother – and with his own funny way of putting dinos into any situation. With Dan away helping their world-famous paleontologist father, Trek has taken up the mantle of 'paleontologist in training' and has started to complete the experiments in Dan’s Dino Field Guide. Trek loves dinosaurs for all the reasons that Dan does but he has not turned into a mini-Dan. Where Dan loves research and experiments, Trek is all about thrills and chills. Which means that while Trek will perform the dino experiments left over in Dan's field guide, most of Trek's contact with dinos will be action-filled adventures!, ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/nt2F6m444ZQ, foldername: dinotrek, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/ckd7g"
+          }
+        ],
+        "gsx$show": { "$t": "Dino Dan:\u003cbr/\u003eTrek's Adventures" },
+        "gsx$episodesandlength": { "$t": "52 x 11 min / 26 x 30 min" },
+        "gsx$distributedby": { "$t": "Breakthrough Entertainment" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "dinodan.com" },
+        "gsx$websiteurl": { "$t": "http://dinodan.com" },
+        "gsx$description": {
+          "$t": "The continuing adventures of \u003ci\u003eDino Dan\u003c/i\u003e go to the next level with 16 new prehistoric creatures, a new gang of friends and another Henderson brother who can see dinosaurs. That’s right – now Dan's younger brother, Trek, can see the dinosaurs too! At eight years old, Trek has become just as fascinated with dinosaurs as his big brother – and with his own funny way of putting dinos into any situation. With Dan away helping their world-famous paleontologist father, Trek has taken up the mantle of 'paleontologist in training' and has started to complete the experiments in Dan’s Dino Field Guide. Trek loves dinosaurs for all the reasons that Dan does but he has not turned into a mini-Dan. Where Dan loves research and experiments, Trek is all about thrills and chills. Which means that while Trek will perform the dino experiments left over in Dan's field guide, most of Trek's contact with dinos will be action-filled adventures!"
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/nt2F6m444ZQ" },
+        "gsx$foldername": { "$t": "dinotrek" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/clrrx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "This is \u003cbr/\u003eScarlett and Isaiah"
+        },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 65 x 6 mins, distributedby: Distribution 360 - a marblemedia company, websitename: thisisscarlettandisaiah.com, websiteurl: http://thisisscarlettandisaiah.com, description: \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e opens up a world of adventure and discovery to preschoolers. Following in the footsteps of previous \u003ci\u003eThis is…\u003c/i\u003e stars, Daniel Cook and Emily Yeung, the latest series shares the world through the eyes of two new hosts: Scarlett and Isaiah. Eager to take on the world and explore it in their own fearless way, Scarlett and Isaiah reflect the energy and attitudes of their audience – curious, forward, active and fun! These two six-year olds take us on adventures galore as they blow bubbles, carve pumpkins, put on puppet shows, care for bunnies, feed alligators, fix cars, fall down, get up and discover the world. Come on along as Scarlett and Isaiah investigate all the things young children are curious about and a few they don't yet know they're curious about. When Scarlett and Isaiah shout, 'Here we are!' they really mean it – the audience is right there with them.\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003eThis is...\u003c/i\u003ea co-production between Sinking Ship Entertainment and marblemedia., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/K-05l0Mh15g, foldername: scarletandisaiah, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/clrrx"
+          }
+        ],
+        "gsx$show": { "$t": "This is \u003cbr/\u003eScarlett and Isaiah" },
+        "gsx$episodesandlength": { "$t": "65 x 6 mins" },
+        "gsx$distributedby": {
+          "$t": "Distribution 360 - a marblemedia company"
+        },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "thisisscarlettandisaiah.com" },
+        "gsx$websiteurl": { "$t": "http://thisisscarlettandisaiah.com" },
+        "gsx$description": {
+          "$t": "\u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e opens up a world of adventure and discovery to preschoolers. Following in the footsteps of previous \u003ci\u003eThis is…\u003c/i\u003e stars, Daniel Cook and Emily Yeung, the latest series shares the world through the eyes of two new hosts: Scarlett and Isaiah. Eager to take on the world and explore it in their own fearless way, Scarlett and Isaiah reflect the energy and attitudes of their audience – curious, forward, active and fun! These two six-year olds take us on adventures galore as they blow bubbles, carve pumpkins, put on puppet shows, care for bunnies, feed alligators, fix cars, fall down, get up and discover the world. Come on along as Scarlett and Isaiah investigate all the things young children are curious about and a few they don't yet know they're curious about. When Scarlett and Isaiah shout, 'Here we are!' they really mean it – the audience is right there with them.\u003cbr/\u003e\u003cbr/\u003e\u003ci\u003eThis is...\u003c/i\u003ea co-production between Sinking Ship Entertainment and marblemedia."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/K-05l0Mh15g" },
+        "gsx$foldername": { "$t": "scarletandisaiah" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cyevm"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Giver" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 39 x 30 mins, distributedby: Sinking Ship Distribution, deliverydate: Season 3: April 13, 2015, websitename: giver-tv.com, websiteurl: http://giver-tv.com, description: \u003ci\u003eGiver\u003c/i\u003e follows teams of 6–12 year-olds who work together with their communities to build and improve local playgrounds. A group of 6 kids must decide on a new theme for their playground – choose what equipment to keep and what to scrap. What does the community want? A sandbox, a garden, a pond or a dog park? On top of all that, they've only got 3 days to do it! Fortunately, the \u003ci\u003eGiver\u003c/i\u003e team isn't alone. Our energetic host, Michael, is a handy carpenter. He provides a steady hand and plenty of enthusiasm as the team digs in, drilling, cutting and painting to create a fun new playground for the whole community to enjoy. Artists, builders and community volunteers round out the team as each new project takes shape. With a themes of 'community,' 'construction' and 'consciousness,' \u003ci\u003eGiver\u003c/i\u003e sounds the call to action for kids to have fun and get involved! Let's \u003ci\u003eGiver!\u003c/i\u003e , ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/513gfbv5TLw, foldername: giver, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cyevm"
+          }
+        ],
+        "gsx$show": { "$t": "Giver" },
+        "gsx$episodesandlength": { "$t": "39 x 30 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "Season 3: April 13, 2015" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "giver-tv.com" },
+        "gsx$websiteurl": { "$t": "http://giver-tv.com" },
+        "gsx$description": {
+          "$t": "\u003ci\u003eGiver\u003c/i\u003e follows teams of 6–12 year-olds who work together with their communities to build and improve local playgrounds. A group of 6 kids must decide on a new theme for their playground – choose what equipment to keep and what to scrap. What does the community want? A sandbox, a garden, a pond or a dog park? On top of all that, they've only got 3 days to do it! Fortunately, the \u003ci\u003eGiver\u003c/i\u003e team isn't alone. Our energetic host, Michael, is a handy carpenter. He provides a steady hand and plenty of enthusiasm as the team digs in, drilling, cutting and painting to create a fun new playground for the whole community to enjoy. Artists, builders and community volunteers round out the team as each new project takes shape. With a themes of 'community,' 'construction' and 'consciousness,' \u003ci\u003eGiver\u003c/i\u003e sounds the call to action for kids to have fun and get involved! Let's \u003ci\u003eGiver!\u003c/i\u003e "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/513gfbv5TLw" },
+        "gsx$foldername": { "$t": "giver" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cztg3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Playdate" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 52 x 5 mins, distributedby: Sinking Ship Distribution, deliverydate: Fall 2015, description: Every kid believes their toys come to life when they're not around and on \u003ci\u003ePlaydate\u003c/i\u003e, they really do! Mac, Sammy, Priscilla and Buckie are the beloved stuffed animals of Jacob and his friends Enzo, Molly and Quinn. Each day, these seemingly normal toys sit on the sidelines watching the kids enjoy their playtime adventures. But when the kids are away, Mac, Sammy, Priscilla and Buckie get to play! They do their best to continue the kids’ fantastical adventures but usually end up causing some kind of mess or chaos. Since the kids can never know their toys come to life, Mac, Sammy, Priscilla and Buckie have to finish their playtime escapades before the kids come back and make sure they’re exactly where they started off! Luckily, Norman, the family dog, makes the perfect fall guy. You didn't think that kids were the only ones who had playdates did you?\n, ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/xqgizHQO1-k, foldername: playdate, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cztg3"
+          }
+        ],
+        "gsx$show": { "$t": "Playdate" },
+        "gsx$episodesandlength": { "$t": "52 x 5 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "Fall 2015" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "Every kid believes their toys come to life when they're not around and on \u003ci\u003ePlaydate\u003c/i\u003e, they really do! Mac, Sammy, Priscilla and Buckie are the beloved stuffed animals of Jacob and his friends Enzo, Molly and Quinn. Each day, these seemingly normal toys sit on the sidelines watching the kids enjoy their playtime adventures. But when the kids are away, Mac, Sammy, Priscilla and Buckie get to play! They do their best to continue the kids’ fantastical adventures but usually end up causing some kind of mess or chaos. Since the kids can never know their toys come to life, Mac, Sammy, Priscilla and Buckie have to finish their playtime escapades before the kids come back and make sure they’re exactly where they started off! Luckily, Norman, the family dog, makes the perfect fall guy. You didn't think that kids were the only ones who had playdates did you?\n"
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/xqgizHQO1-k" },
+        "gsx$foldername": { "$t": "playdate" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d180g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Now You Know" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 39 x 7 mins / 13 x 22 mins, distributedby: Sinking Ship Distribution, deliverydate: Spring 2015, description: \u003ci\u003eNow You Know\u003c/i\u003e is an entertaining and engaging original series for kids 4-6.  It enhances natural curiosity and promotes play-based learning by seeking answers to questions preschoolers ask about science, nature and the world around them. The series combines puppetry, animation and live-action with segments shot on location, featuring high profile personalities and experts.  \u003ci\u003eNow You Know\u003c/i\u003e explores science, nature, music, dance and language in order to educate and entertain. , ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/JVcpoYWXQTc, foldername: nowyouknow, featured: TRUE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d180g"
+          }
+        ],
+        "gsx$show": { "$t": "Now You Know" },
+        "gsx$episodesandlength": { "$t": "39 x 7 mins / 13 x 22 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "Spring 2015" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "\u003ci\u003eNow You Know\u003c/i\u003e is an entertaining and engaging original series for kids 4-6.  It enhances natural curiosity and promotes play-based learning by seeking answers to questions preschoolers ask about science, nature and the world around them. The series combines puppetry, animation and live-action with segments shot on location, featuring high profile personalities and experts.  \u003ci\u003eNow You Know\u003c/i\u003e explores science, nature, music, dance and language in order to educate and entertain. "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/JVcpoYWXQTc" },
+        "gsx$foldername": { "$t": "nowyouknow" },
+        "gsx$featured": { "$t": "TRUE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d2mkx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Are We There Yet?: \u003cbr/\u003eWorld Adventure"
+        },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 117 x 7 mins / 39 x 30 mins, distributedby: Sinking Ship Distribution, websitename: AWTY-Treehouse, AWTY-CBC, websiteurl: http://arewethereyet.treehousetv.com/Earth/earth.html, http://www.cbc.ca/kidscbc/#/games/awty , description: \u003ci\u003eAre we there yet?: World Adventure\u003c/i\u003e is a global kids’ travel series hosted by eight dynamic sibling duos, ages 6 - 8. Each pair shares their globetrotting adventures through journalling, drawing, painting and on-location chatter. From walking the Great Wall of China to learning a Ukrainian folk dance in Kiev, our young hosts take the audience with them on their unscripted and unpredictable tour of the world. After all these years, we've got quite a roster: Julian \u0026 Rosie, Molly \u0026 Sam, Joanna \u0026 Julia, TJ \u0026 Tristan, Jessica \u0026 Jake, Amil \u0026 Rehan, Hillary \u0026 Emily and Charlie \u0026 Gabe. Each set of siblings brings a unique dynamic to their adventures but some things stay the same – amazing experiences and spectacular sights making memories of a lifetime. Produced in partnership with National Geographic, \u003ci\u003eAre We There Yet?: World Adventure\u003c/i\u003e is a family favourite in our catalogue. , ssecontact: distribution@sinkingship.ca, videourl: https://www.youtube.com/embed/2rYWWr2Yrm4, foldername: awty, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d2mkx"
+          }
+        ],
+        "gsx$show": {
+          "$t": "Are We There Yet?: \u003cbr/\u003eWorld Adventure"
+        },
+        "gsx$episodesandlength": { "$t": "117 x 7 mins / 39 x 30 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "AWTY-Treehouse, AWTY-CBC" },
+        "gsx$websiteurl": {
+          "$t": "http://arewethereyet.treehousetv.com/Earth/earth.html, http://www.cbc.ca/kidscbc/#/games/awty "
+        },
+        "gsx$description": {
+          "$t": "\u003ci\u003eAre we there yet?: World Adventure\u003c/i\u003e is a global kids’ travel series hosted by eight dynamic sibling duos, ages 6 - 8. Each pair shares their globetrotting adventures through journalling, drawing, painting and on-location chatter. From walking the Great Wall of China to learning a Ukrainian folk dance in Kiev, our young hosts take the audience with them on their unscripted and unpredictable tour of the world. After all these years, we've got quite a roster: Julian \u0026 Rosie, Molly \u0026 Sam, Joanna \u0026 Julia, TJ \u0026 Tristan, Jessica \u0026 Jake, Amil \u0026 Rehan, Hillary \u0026 Emily and Charlie \u0026 Gabe. Each set of siblings brings a unique dynamic to their adventures but some things stay the same – amazing experiences and spectacular sights making memories of a lifetime. Produced in partnership with National Geographic, \u003ci\u003eAre We There Yet?: World Adventure\u003c/i\u003e is a family favourite in our catalogue. "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "https://www.youtube.com/embed/2rYWWr2Yrm4" },
+        "gsx$foldername": { "$t": "awty" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cssly"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Gorilla Parenting " },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 10 x 18 mins, distributedby: Sinking Ship Distribution, description: This documentary / interview series takes viewers into the parenting trenches by trying to answer some of the questions that bombard modern parents. Parents of the kids in \u003ci\u003eThe Jungle Room\u003c/i\u003e start by watching funny, revealing footage of their children playing in the relatively adult-free environment of \u003ci\u003eThe Jungle Room\u003c/i\u003e. Together with the mums and dads, we get to observe the world of kids away from their parents - a world parents rarely get to see. The parents then ask experts for their opinions on potentially difficult questions that may arise after observing their kids in \u003ci\u003eThe Jungle Room\u003c/i\u003e. How should we respond to early use of inappropriate language? How can we best support our children after the death of a family member? What sort of language should we use in answering the inevitable questions about sex? Being a parent can feel like a 24-hour-a-day ambush. \u003ci\u003eGorilla Parenting\u003c/i\u003e helps to make it an adventure. , ssecontact: distribution@sinkingship.ca, foldername: parent, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cssly"
+          }
+        ],
+        "gsx$show": { "$t": "Gorilla Parenting " },
+        "gsx$episodesandlength": { "$t": "10 x 18 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "This documentary / interview series takes viewers into the parenting trenches by trying to answer some of the questions that bombard modern parents. Parents of the kids in \u003ci\u003eThe Jungle Room\u003c/i\u003e start by watching funny, revealing footage of their children playing in the relatively adult-free environment of \u003ci\u003eThe Jungle Room\u003c/i\u003e. Together with the mums and dads, we get to observe the world of kids away from their parents - a world parents rarely get to see. The parents then ask experts for their opinions on potentially difficult questions that may arise after observing their kids in \u003ci\u003eThe Jungle Room\u003c/i\u003e. How should we respond to early use of inappropriate language? How can we best support our children after the death of a family member? What sort of language should we use in answering the inevitable questions about sex? Being a parent can feel like a 24-hour-a-day ambush. \u003ci\u003eGorilla Parenting\u003c/i\u003e helps to make it an adventure. "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "" },
+        "gsx$foldername": { "$t": "parent" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cu76f"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "I Dare You" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 39 x 2 mins, distributedby: Sinking Ship Distribution, description: I dare you to make a crazy noise and jump up and down 3 times!' Hosted by Daniel Cook, \u003ci\u003eI Dare You\u003c/i\u003e encourages kids to exercise while having fun. Drawing on Daniel’s established friendship with preschoolers, Daniel playfully dares the audience to join him on three fun physical movements. Each action builds on the previous one, leading to a finale in which all three dares are combined into a final fitness medley. Daniel finishes out each episode with a healthy snack such as fruit or milk. \u003ci\u003eI Dare You\u003c/i\u003e preceded \u003ci\u003eRoll Play\u003c/i\u003e and \u003ci\u003eGiver\u003c/i\u003e as the first of many Sinking Ship shows that encourage kids to get up, get active and get involved. Always prompting the audience to move instead of sitting still, \u003ci\u003eI Dare You\u003c/i\u003e is a healthy, active push in the right direction for couch-bound kids who needn't be couch-bound. \u003ci\u003eI Dare You\u003c/i\u003e – to watch this show!, ssecontact: distribution@sinkingship.ca\n, videourl: http://www.youtube.com/embed/xbYxxojQ64Y, foldername: dare, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cu76f"
+          }
+        ],
+        "gsx$show": { "$t": "I Dare You" },
+        "gsx$episodesandlength": { "$t": "39 x 2 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "I dare you to make a crazy noise and jump up and down 3 times!' Hosted by Daniel Cook, \u003ci\u003eI Dare You\u003c/i\u003e encourages kids to exercise while having fun. Drawing on Daniel’s established friendship with preschoolers, Daniel playfully dares the audience to join him on three fun physical movements. Each action builds on the previous one, leading to a finale in which all three dares are combined into a final fitness medley. Daniel finishes out each episode with a healthy snack such as fruit or milk. \u003ci\u003eI Dare You\u003c/i\u003e preceded \u003ci\u003eRoll Play\u003c/i\u003e and \u003ci\u003eGiver\u003c/i\u003e as the first of many Sinking Ship shows that encourage kids to get up, get active and get involved. Always prompting the audience to move instead of sitting still, \u003ci\u003eI Dare You\u003c/i\u003e is a healthy, active push in the right direction for couch-bound kids who needn't be couch-bound. \u003ci\u003eI Dare You\u003c/i\u003e – to watch this show!"
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca\n" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/xbYxxojQ64Y" },
+        "gsx$foldername": { "$t": "dare" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cvlqs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Roll Play" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 124 x 4 mins plus 4 x 30 min concert specials, distributedby: Sinking Ship Distribution, websitename: rollplaylive.ca, websiteurl: http://www.rollplaylive.ca/, description: With scripts by renowned Canadian authors, original songs by acclaimed artists such as Sam Roberts and Kardinal, and the magical puppets of the award-winning Famous PEOPLE Players, the live-action pre-school series \u003ci\u003eRoll Play\u003c/i\u003e gets kids moving. Each four-minute episode is a narrated story or song about the adventures of characters like Frank the Crab. While the movements of the Famous PEOPLE Player puppets play out on a black background, children re-enact the puppets movements against a crisp, white background. Visually stunning, \u003ci\u003eRoll Play\u003c/i\u003e combines imaginative storytelling with physical movements designed to encourage viewer participation. This series features an amazing cast of puppets and new original songs from a whole new cast of acclaimed artists. Artists who contributed songs to season one include Broken Social Scene, Patrick Pentland of Sloan, Kardinal Offishal, Great Big Sea, Sarah McCully, Jacksoul, Malajube, Prozzak, Jully Black, Andy Stochansky, and Jodie Resther., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/94qOPEIuwBs, foldername: rollplay, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cvlqs"
+          }
+        ],
+        "gsx$show": { "$t": "Roll Play" },
+        "gsx$episodesandlength": {
+          "$t": "124 x 4 mins plus 4 x 30 min concert specials"
+        },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "rollplaylive.ca" },
+        "gsx$websiteurl": { "$t": "http://www.rollplaylive.ca/" },
+        "gsx$description": {
+          "$t": "With scripts by renowned Canadian authors, original songs by acclaimed artists such as Sam Roberts and Kardinal, and the magical puppets of the award-winning Famous PEOPLE Players, the live-action pre-school series \u003ci\u003eRoll Play\u003c/i\u003e gets kids moving. Each four-minute episode is a narrated story or song about the adventures of characters like Frank the Crab. While the movements of the Famous PEOPLE Player puppets play out on a black background, children re-enact the puppets movements against a crisp, white background. Visually stunning, \u003ci\u003eRoll Play\u003c/i\u003e combines imaginative storytelling with physical movements designed to encourage viewer participation. This series features an amazing cast of puppets and new original songs from a whole new cast of acclaimed artists. Artists who contributed songs to season one include Broken Social Scene, Patrick Pentland of Sloan, Kardinal Offishal, Great Big Sea, Sarah McCully, Jacksoul, Malajube, Prozzak, Jully Black, Andy Stochansky, and Jodie Resther."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/94qOPEIuwBs" },
+        "gsx$foldername": { "$t": "rollplay" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cx0b9"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "The Jungle Room" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 26 x 11 mins, distributedby: Sinking Ship Distribution, description: Seven charismatic preschoolers reveal the true world of childhood in this surprising, charming unscripted series that peeks inside a preschool daycare room. Leading our intrepid friends through their daily romp is their patient teacher, Anthony.  Echoing the structure of a real daycare environment, a day in \u003ci\u003eThe Jungle Room\u003c/i\u003e follows a schedule: there's play time; snack time; outside time and … the daily guest! It's a stable routine that can be surprising! Snack time might feature an exotic new food to try, the guest may be a zoo-keeper who brings a live boa constrictor and play time could involve building your own working volcano. Of course, in daycare, as in life, there are tears, tantrums, conflict, resolution and more than a little friendship. Fun to watch for preschoolers and their parents, \u003ci\u003eThe Jungle Room\u003c/i\u003e is a window into the daily world of kids in daycare., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/GUSOt6eyA58, foldername: jungleroom, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/cx0b9"
+          }
+        ],
+        "gsx$show": { "$t": "The Jungle Room" },
+        "gsx$episodesandlength": { "$t": "26 x 11 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "Seven charismatic preschoolers reveal the true world of childhood in this surprising, charming unscripted series that peeks inside a preschool daycare room. Leading our intrepid friends through their daily romp is their patient teacher, Anthony.  Echoing the structure of a real daycare environment, a day in \u003ci\u003eThe Jungle Room\u003c/i\u003e follows a schedule: there's play time; snack time; outside time and … the daily guest! It's a stable routine that can be surprising! Snack time might feature an exotic new food to try, the guest may be a zoo-keeper who brings a live boa constrictor and play time could involve building your own working volcano. Of course, in daycare, as in life, there are tears, tantrums, conflict, resolution and more than a little friendship. Fun to watch for preschoolers and their parents, \u003ci\u003eThe Jungle Room\u003c/i\u003e is a window into the daily world of kids in daycare."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/GUSOt6eyA58" },
+        "gsx$foldername": { "$t": "jungleroom" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d9ney"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "The Ocean Room" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 26 x 11 mins, distributedby: Sinking Ship Distribution, description: For its second season, the highly-rated preschool reality series \u003ci\u003eThe Jungle Room\u003c/i\u003e, morphed into \u003ci\u003eThe Ocean Room\u003c/i\u003e. We follow the unpredictable and real preschool adventures of seven new charismatic kids aged three to six. From having fun belting out songs to dealing with real-life issues like the death of the classroom goldfish and going to the dentist, each episode takes kids and parents at home into the unscripted world of preschoolers. The enchanting bright coral reef cave and blue ‘water’ streamers reflect the season’s ocean theme and the seal puppet, Blue, replaces Moxey, the much-loved monkey puppet from \u003ci\u003eThe Jungle Room\u003c/i\u003e. Special deliveries arrive via treasure chest and fun guests – ranging from fire-fighters to magicians – visit in each episode to introduce the kids to something new. Teacher Anthony returns to help his young friends learn, live and get along., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/DU-KI5FbUNs, foldername: oceanroom, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/d9ney"
+          }
+        ],
+        "gsx$show": { "$t": "The Ocean Room" },
+        "gsx$episodesandlength": { "$t": "26 x 11 mins" },
+        "gsx$distributedby": { "$t": "Sinking Ship Distribution" },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "" },
+        "gsx$websiteurl": { "$t": "" },
+        "gsx$description": {
+          "$t": "For its second season, the highly-rated preschool reality series \u003ci\u003eThe Jungle Room\u003c/i\u003e, morphed into \u003ci\u003eThe Ocean Room\u003c/i\u003e. We follow the unpredictable and real preschool adventures of seven new charismatic kids aged three to six. From having fun belting out songs to dealing with real-life issues like the death of the classroom goldfish and going to the dentist, each episode takes kids and parents at home into the unscripted world of preschoolers. The enchanting bright coral reef cave and blue ‘water’ streamers reflect the season’s ocean theme and the seal puppet, Blue, replaces Moxey, the much-loved monkey puppet from \u003ci\u003eThe Jungle Room\u003c/i\u003e. Special deliveries arrive via treasure chest and fun guests – ranging from fire-fighters to magicians – visit in each episode to introduce the kids to something new. Teacher Anthony returns to help his young friends learn, live and get along."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/DU-KI5FbUNs" },
+        "gsx$foldername": { "$t": "oceanroom" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/db1zf"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Daniel Cook" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 131 x 6 min / 26 x 30 min, distributedby: Distribution360 - a marblemedia company, websitename: thisisdanielcook.com, websiteurl: http://thisisdanielcook.com/, description: Sinking Ship's first show was its breakout success. The award-winning, live-action preschool series \u003ci\u003eThis is Daniel Cook\u003c/i\u003e features its six-year-old namesake as he explores, learns and creates with everyone from chocolatiers and musicians to firefighters and dog trainers. Exploring new situations with candid questions, the series captures the adventurous viewpoint of a six-year-old, resulting in a show that entertains as well as teaches. From the fantastic to the everyday, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e shows kids the wonders of the world around them through the eyes of someone their own age. The audience experiences Daniel's adventures as he does, at his own pace and from his own perspective (somewhat under four feet). Hailed for its innovative simplicity and refreshingly kid-centred approach, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e continues to be a very popular viewing experience for both kids and their parents. 'Here we are!' , ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/LOuOHZgBsB4, foldername: daniel, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/db1zf"
+          }
+        ],
+        "gsx$show": { "$t": "This is Daniel Cook" },
+        "gsx$episodesandlength": { "$t": "131 x 6 min / 26 x 30 min" },
+        "gsx$distributedby": {
+          "$t": "Distribution360 - a marblemedia company"
+        },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "thisisdanielcook.com" },
+        "gsx$websiteurl": { "$t": "http://thisisdanielcook.com/" },
+        "gsx$description": {
+          "$t": "Sinking Ship's first show was its breakout success. The award-winning, live-action preschool series \u003ci\u003eThis is Daniel Cook\u003c/i\u003e features its six-year-old namesake as he explores, learns and creates with everyone from chocolatiers and musicians to firefighters and dog trainers. Exploring new situations with candid questions, the series captures the adventurous viewpoint of a six-year-old, resulting in a show that entertains as well as teaches. From the fantastic to the everyday, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e shows kids the wonders of the world around them through the eyes of someone their own age. The audience experiences Daniel's adventures as he does, at his own pace and from his own perspective (somewhat under four feet). Hailed for its innovative simplicity and refreshingly kid-centred approach, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e continues to be a very popular viewing experience for both kids and their parents. 'Here we are!' "
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/LOuOHZgBsB4" },
+        "gsx$foldername": { "$t": "daniel" },
+        "gsx$featured": { "$t": "FALSE" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/dcgjs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "This is Emily Yeung" },
+        "content": {
+          "type": "text",
+          "$t": "episodesandlength: 65 x 6 mins plus 2 x 30 min specials, distributedby: Distribution360 - a marblemedia company, websitename: thisisemilyyeung.com, websiteurl: http://thisisemilyyeung.com, description: In this original format adaptation of the award-winning \u003ci\u003eThis is Daniel Cook\u003c/i\u003e, six-year-old host Emily Yeung brings a fresh female perspective to season three of \u003ci\u003eThis is…\u003c/i\u003e as she explores, learns and creates in her own fearless way. With a renewed emphasis on visually exciting adventures, Emily swims with dolphins, explores the Rocky Mountains, sees spectacular fireworks, builds a tree house, rides a camel and even plays basketball with a towering member of the Toronto Raptors basketball team. Emily's adventures range from exotic locales like prairie hot springs to quiet spots like rainy day window sills. As with Daniel Cook, \u003ci\u003eThis is Emily Yeung\u003c/i\u003e enjoyed awards, recognition and great popularity as new fans flocked to the show to share in every day adventures they could go on themselves. From thrilling rides to reflective moments, Emily has fun and excitement as she tries new things every day, learning a little more each time., ssecontact: distribution@sinkingship.ca, videourl: http://www.youtube.com/embed/eZAR3rqe2dg, foldername: emily, featured: FALSE"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/od4/public/values/dcgjs"
+          }
+        ],
+        "gsx$show": { "$t": "This is Emily Yeung" },
+        "gsx$episodesandlength": {
+          "$t": "65 x 6 mins plus 2 x 30 min specials"
+        },
+        "gsx$distributedby": {
+          "$t": "Distribution360 - a marblemedia company"
+        },
+        "gsx$deliverydate": { "$t": "" },
+        "gsx$productionyear": { "$t": "" },
+        "gsx$productionpartner": { "$t": "" },
+        "gsx$websitename": { "$t": "thisisemilyyeung.com" },
+        "gsx$websiteurl": { "$t": "http://thisisemilyyeung.com" },
+        "gsx$description": {
+          "$t": "In this original format adaptation of the award-winning \u003ci\u003eThis is Daniel Cook\u003c/i\u003e, six-year-old host Emily Yeung brings a fresh female perspective to season three of \u003ci\u003eThis is…\u003c/i\u003e as she explores, learns and creates in her own fearless way. With a renewed emphasis on visually exciting adventures, Emily swims with dolphins, explores the Rocky Mountains, sees spectacular fireworks, builds a tree house, rides a camel and even plays basketball with a towering member of the Toronto Raptors basketball team. Emily's adventures range from exotic locales like prairie hot springs to quiet spots like rainy day window sills. As with Daniel Cook, \u003ci\u003eThis is Emily Yeung\u003c/i\u003e enjoyed awards, recognition and great popularity as new fans flocked to the show to share in every day adventures they could go on themselves. From thrilling rides to reflective moments, Emily has fun and excitement as she tries new things every day, learning a little more each time."
+        },
+        "gsx$ssecontact": { "$t": "distribution@sinkingship.ca" },
+        "gsx$videourl": { "$t": "http://www.youtube.com/embed/eZAR3rqe2dg" },
+        "gsx$foldername": { "$t": "emily" },
+        "gsx$featured": { "$t": "FALSE" }
+      }
+    ]
+  }
+}

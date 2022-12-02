@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html class="mobile pageLoading">
+<head>
+    <title>Sinking Ship</title>
+    
+    <link rel="icon" type="image/png" href="img/global/favicon.png" />
+
+	<!--
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes">
+    -->
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes">
+    
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+    
+
+	<script src="js/lib/jquery-2.1.3.min.js"></script>
+    <link href="css/mobile-phone.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+    <div class="loadingInfo">
+    	<div class="loading-wrapper">
+        	<div class="loading-details">
+                <div class="sizer"></div>
+                <div class="sized">
+                    <img src="img/mobile/load/load-back.png" class="load-img load-back">
+                    <img src="img/global/ss-logo-mobile-blue.png" class="loading-logo">
+                    <img src="img/mobile/load/load-mid.png" class="load-img load-mid">
+                    <p><span class="pageLoad">0</span><em>%</em></p>
+                    <img src="img/mobile/load/load-front.png" class="load-img load-front">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="videoOverlay">
+        <div class="clickScreen"></div>
+        <nav>
+            <a href="#" class="btn-close"></a>
+        </nav>
+        <div class="video-wrapper">
+            <div class="sizer"></div>
+            <div class="sized">
+            </div>
+        </div>
+    </div>
+	<a href="index.html" class="switch switch-desktop"><img src="img/global/btn-switch-desktop.png"></a>
+    <div class="mobile-nav">
+    	<div class="mobile-wrapper">
+            <a href="#" class="main-logo">
+                <img src="img/global/ss-logo-mobile-blue.png">
+            </a>
+            <nav class="main-nav">
+                <a href="#" data-target="home">Home</a>
+                <a href="#" data-target="series">Series</a>
+                <a href="#" data-target="news">News</a>
+                <a href="#" data-target="crew">Crew</a>
+                <a href="#" data-target="careers">Careers</a>
+                <a href="#" data-target="contact">Contact</a>
+                <a href="#" onclick="videoOverlay('SUAdKPVJRnc', event)">Reel</a>
+            </nav>
+            <ul class="social-nav">
+                <li class="contact-type contact-facebook">
+                    <a href="http://www.facebook.com/sinkingshipentertainment" target="_blank">
+                        <img src="img/mobile/icon-facebook.png" />
+                    </a>
+                </li>
+                <li class="contact-type contact-twitter">
+                    <a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.sinkingship.ca%2Fprofile.html&region=follow_link&screen_name=SinkingShipEnt&tw_p=followbutton&variant=2.0" target="_blank">
+                        <img src="img/mobile/icon-twitter.png" />
+                    </a>
+                </li>
+                <li class="contact-type contact-youtube">
+                    <a href="http://www.youtube.com/user/SinkingShipEntTO" target="_blank">
+                        <img src="img/mobile/icon-youtube.png" />
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+	<div id="contentContainer">
+    	<div class="mobile-bar">
+        	<a href="#" class="toggleMobile">
+	            <img src="img/global/icon-burger.png">
+            </a>
+            
+			<a href="#" data-target="home">
+	            <img src="img/global/mobile-bar-logo.png" class="mobile-bar-logo">
+            </a>
+        </div>
+        <section data-title="home" class="pg-0 pg-home activeScene" data-genratr="home/index.html" data-genratr-doneFunc=""></section>
+        <div class="pg-seperator"></div>
+        <section data-title="series" class="pg-1 pg-series" data-genratr="series/index.html" data-genratr-doneFunc="fetchSeries"></section>
+        <div class="pg-seperator"></div>
+        <section data-title="news" class="pg-2 pg-news" data-genratr="news/index.html" data-genratr-doneFunc="fetchNews"></section>
+        <div class="pg-seperator"></div>
+        <section data-title="crew" class="pg-3 pg-crew" data-genratr="crew/index.html" data-genratr-doneFunc=""></section>
+        <div class="pg-seperator"></div>
+        <section data-title="careers" class="pg-4 pg-careers" data-genratr="careers/index.html" data-genratr-doneFunc="fetchCareers"></section>
+        <div class="pg-seperator"></div>
+        <section data-title="contact" class="pg-5 pg-contact" data-genratr="contact/index.html" data-genratr-doneFunc=""></section>
+	</div>
+<a href="https://plus.google.com/114621463169589080897" rel="publisher" style="display:none">Google+</a>
+    <script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-33144979-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<script src="js/functions.global.js"></script>
+	<script src="js/functions.pageGenratr.js"></script>
+	<script>
+		$(document).ready(globalInstance.documentReady());
+	</script>
+</body>
+</html>
+

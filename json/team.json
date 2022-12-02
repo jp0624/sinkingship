@@ -1,0 +1,903 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values"
+    },
+    "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+    "category": [
+      {
+        "scheme": "http://schemas.google.com/spreadsheets/2006",
+        "term": "http://schemas.google.com/spreadsheets/2006#list"
+      }
+    ],
+    "title": { "type": "text", "$t": "Team" },
+    "link": [
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "href": "https://docs.google.com/spreadsheets/d/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/pubhtml"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values"
+      },
+      {
+        "rel": "http://schemas.google.com/g/2005#post",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values?alt\u003djson"
+      }
+    ],
+    "author": [
+      { "name": { "$t": "ronald" }, "email": { "$t": "ronald@sinkingship.ca" } }
+    ],
+    "openSearch$totalResults": { "$t": "25" },
+    "openSearch$startIndex": { "$t": "1" },
+    "entry": [
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cokwr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "J.J." },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Johnson, role: Executive Producer, team: Partners, description: J.J. Johnson is an executive producer and the creative force behind Sinking Ship Entertainment. Since the company's inception in 2004, he has created 12 series including international hits Annedroids, Emmy nominated Dino Dan and This is Daniel Cook. J.J. has directed over 150 hours of children's programming and filmed in over 30 countries, he is also the series director on PBS's Odd Squad. J.J. is an Emmy-nominated writer with over 500 episode credits and has been recognized by The Toronto Star and enRoute magazine as one of Canada's top children's television producers. He was listed in Playback magazine as one of their Top 10 to Watch and was named by The Hollywood Reporter as one of the Top 20 under 35 in 2013. J.J. Is also co-chair of the Youth Media Alliance in Canada. , photoprefix: jj"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cokwr"
+          }
+        ],
+        "gsx$name": { "$t": "J.J." },
+        "gsx$lastname": { "$t": "Johnson" },
+        "gsx$role": { "$t": "Executive Producer" },
+        "gsx$email": { "$t": "" },
+        "gsx$team": { "$t": "Partners" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "J.J. Johnson is an executive producer and the creative force behind Sinking Ship Entertainment. Since the company's inception in 2004, he has created 12 series including international hits Annedroids, Emmy nominated Dino Dan and This is Daniel Cook. J.J. has directed over 150 hours of children's programming and filmed in over 30 countries, he is also the series director on PBS's Odd Squad. J.J. is an Emmy-nominated writer with over 500 episode credits and has been recognized by The Toronto Star and enRoute magazine as one of Canada's top children's television producers. He was listed in Playback magazine as one of their Top 10 to Watch and was named by The Hollywood Reporter as one of the Top 20 under 35 in 2013. J.J. Is also co-chair of the Youth Media Alliance in Canada. "
+        },
+        "gsx$photoprefix": { "$t": "jj" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cpzh4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Blair" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Powers, role: Executive Producer, team: Partners, description: Blair Powers is an executive producer of Sinking Ship Entertainment. He heads up the interactive division of the company and oversees the financial, business aspects and funding aspects of all of  Sinking Ship's television and digital properties. In addition, Blair has produced award-winning interactive companion websites for many Sinking Ship series including \u003ci\u003eAre we there yet? World Adventure\u003c/i\u003e, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e  and \u003ci\u003eDino Dan\u003c/i\u003e’s hugely popular and award-nominated interactive suite of online and mobile games and AR apps. Blair began his career after graduating from the School of Radio and Television Arts at Ryerson University in 2002.  He is a CMPA member and is currently on the Digital Governance Committee of the Canadian Screen Awards.\n, photoprefix: blair"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cpzh4"
+          }
+        ],
+        "gsx$name": { "$t": "Blair" },
+        "gsx$lastname": { "$t": "Powers" },
+        "gsx$role": { "$t": "Executive Producer" },
+        "gsx$email": { "$t": "" },
+        "gsx$team": { "$t": "Partners" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Blair Powers is an executive producer of Sinking Ship Entertainment. He heads up the interactive division of the company and oversees the financial, business aspects and funding aspects of all of  Sinking Ship's television and digital properties. In addition, Blair has produced award-winning interactive companion websites for many Sinking Ship series including \u003ci\u003eAre we there yet? World Adventure\u003c/i\u003e, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e  and \u003ci\u003eDino Dan\u003c/i\u003e’s hugely popular and award-nominated interactive suite of online and mobile games and AR apps. Blair began his career after graduating from the School of Radio and Television Arts at Ryerson University in 2002.  He is a CMPA member and is currently on the Digital Governance Committee of the Canadian Screen Awards.\n"
+        },
+        "gsx$photoprefix": { "$t": "blair" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cre1l"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Matt" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Bishop, role: Executive Producer, team: Partners, description: Matt Bishop is an executive producer of Sinking Ship Entertainment.  He leads the animation and visual effect division of Sinking Ship and is an Emmy nominated producer who has producer over 350 half hours of kids television. He is a tech geek who was featured in Post Magazine and Apple.com, along with a live presentation of Sinking Ship’s advanced digital workflow for Apple inc. Constantly looking to push technology in as far as possible, Matt lead Sinking Ship in producing the first 4K kids television series production. Matt began his career after graduating from the School of Radio and Television Arts at Ryerson University., photoprefix: matt"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cre1l"
+          }
+        ],
+        "gsx$name": { "$t": "Matt" },
+        "gsx$lastname": { "$t": "Bishop" },
+        "gsx$role": { "$t": "Executive Producer" },
+        "gsx$email": { "$t": "" },
+        "gsx$team": { "$t": "Partners" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Matt Bishop is an executive producer of Sinking Ship Entertainment.  He leads the animation and visual effect division of Sinking Ship and is an Emmy nominated producer who has producer over 350 half hours of kids television. He is a tech geek who was featured in Post Magazine and Apple.com, along with a live presentation of Sinking Ship’s advanced digital workflow for Apple inc. Constantly looking to push technology in as far as possible, Matt lead Sinking Ship in producing the first 4K kids television series production. Matt began his career after graduating from the School of Radio and Television Arts at Ryerson University."
+        },
+        "gsx$photoprefix": { "$t": "matt" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/chk2m"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Christin" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Simms, role: Executive Producer, email: christin@sinkingship.ca, team: Production, description: Christin Simms is an award-winning writer and producer who joined Sinking Ship in 2008. She has since written and produced multiple projects for the ship including \u003ci\u003eAnnedroids\u003c/i\u003e, \u003ci\u003eDino Dan\u003c/i\u003e and \u003ci\u003ePlaydate\u003c/i\u003e. Other projects she’s worked on include: \u003ci\u003eProducing Parker\u003c/i\u003e, \u003ci\u003eCaptain Flamingo\u003c/i\u003e and \u003ci\u003eStella and Sam\u003c/i\u003e. Christin is an Emmy nominated writer, a recipient of a Canadian Screenwriting Award, was named one of Playback Magazine’s Top Ten to Watch and received the Alliance for Children and Television's Emerging Talent Award.\n, photoprefix: simms"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/chk2m"
+          }
+        ],
+        "gsx$name": { "$t": "Christin" },
+        "gsx$lastname": { "$t": "Simms" },
+        "gsx$role": { "$t": "Executive Producer" },
+        "gsx$email": { "$t": "christin@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Christin Simms is an award-winning writer and producer who joined Sinking Ship in 2008. She has since written and produced multiple projects for the ship including \u003ci\u003eAnnedroids\u003c/i\u003e, \u003ci\u003eDino Dan\u003c/i\u003e and \u003ci\u003ePlaydate\u003c/i\u003e. Other projects she’s worked on include: \u003ci\u003eProducing Parker\u003c/i\u003e, \u003ci\u003eCaptain Flamingo\u003c/i\u003e and \u003ci\u003eStella and Sam\u003c/i\u003e. Christin is an Emmy nominated writer, a recipient of a Canadian Screenwriting Award, was named one of Playback Magazine’s Top Ten to Watch and received the Alliance for Children and Television's Emerging Talent Award.\n"
+        },
+        "gsx$photoprefix": { "$t": "simms" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ciyn3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Georgina" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: López, role: Production Manager, email: georgina@sinkingship.ca, team: Production, description: Georgina began at Sinking Ship as Production Coordinator in 2007 and was promoted to Production Manager in 2009. She has worked on nearly EVERY show Sinking Ship has ever done. In her abundant (as if) spare time, she manages her personal projects \u003ci\u003eIndiana\u003c/i\u003e (2008) and \u003ci\u003eEllora\u003c/i\u003e (2013)., photoprefix: georgina"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ciyn3"
+          }
+        ],
+        "gsx$name": { "$t": "Georgina" },
+        "gsx$lastname": { "$t": "López" },
+        "gsx$role": { "$t": "Production Manager" },
+        "gsx$email": { "$t": "georgina@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Georgina began at Sinking Ship as Production Coordinator in 2007 and was promoted to Production Manager in 2009. She has worked on nearly EVERY show Sinking Ship has ever done. In her abundant (as if) spare time, she manages her personal projects \u003ci\u003eIndiana\u003c/i\u003e (2008) and \u003ci\u003eEllora\u003c/i\u003e (2013)."
+        },
+        "gsx$photoprefix": { "$t": "georgina" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ckd7g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "George" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Lajtai, CSC, role: Director of Photography, email: george@sinkingship.ca, team: Production, description: George is one of the invisible pillars at Sinking Ship. Since 2004 he has been Director of Photography, helping to tell stories by establishing the visual look of a show through artistic and technical decisions regarding lighting. He has worked on \u003ci\u003eOdd Squad\u003c/i\u003e, \u003ci\u003e Annedroids\u003c/i\u003e, \u003ci\u003eDino Dan\u003c/i\u003e, \u003ci\u003eDino Dan: Trek’s Adventures\u003c/i\u003e, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e, \u003ci\u003eThis is Emily Yeung\u003c/i\u003e, \u003ci\u003eAre we there yet?: World Adventure\u003c/i\u003e and many more. George's hobby is his work and he feels very lucky for that., photoprefix: george"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ckd7g"
+          }
+        ],
+        "gsx$name": { "$t": "George" },
+        "gsx$lastname": { "$t": "Lajtai, CSC" },
+        "gsx$role": { "$t": "Director of Photography" },
+        "gsx$email": { "$t": "george@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "George is one of the invisible pillars at Sinking Ship. Since 2004 he has been Director of Photography, helping to tell stories by establishing the visual look of a show through artistic and technical decisions regarding lighting. He has worked on \u003ci\u003eOdd Squad\u003c/i\u003e, \u003ci\u003e Annedroids\u003c/i\u003e, \u003ci\u003eDino Dan\u003c/i\u003e, \u003ci\u003eDino Dan: Trek’s Adventures\u003c/i\u003e, \u003ci\u003eThis is Daniel Cook\u003c/i\u003e, \u003ci\u003eThis is Emily Yeung\u003c/i\u003e, \u003ci\u003eAre we there yet?: World Adventure\u003c/i\u003e and many more. George's hobby is his work and he feels very lucky for that."
+        },
+        "gsx$photoprefix": { "$t": "george" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/clrrx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Rhonda" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Olson, role: Supervising Producer, email: rhonda@sinkingship.ca, description: Rhonda's extensive television industry experience is in both production as a writer, story editor and producer and on the broadcasting side as a Production Executive at Corus Entertainment. She has worked in a creative capacity in a broad range of television genres. Select writing and producing credits include: \u003ci\u003eGoosebumps\u003c/i\u003e (YTV), \u003ci\u003eThe Saddle Club\u003c/i\u003e (YTV), \u003ci\u003eReal Kids Real Adventures\u003c/i\u003e (YTV), \u003ci\u003eDrop the Beat\u003c/i\u003e (CBC), \u003ci\u003ePower Play\u003c/i\u003e (CTV), \u003ci\u003eTrain 48\u003c/i\u003e (Global), \u003ci\u003eMajumder Manor\u003c/i\u003e (W Network) and \u003ci\u003eTo Catch a Killer\u003c/i\u003e (OWN). , photoprefix: rhonda"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/clrrx"
+          }
+        ],
+        "gsx$name": { "$t": "Rhonda" },
+        "gsx$lastname": { "$t": "Olson" },
+        "gsx$role": { "$t": "Supervising Producer" },
+        "gsx$email": { "$t": "rhonda@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Rhonda's extensive television industry experience is in both production as a writer, story editor and producer and on the broadcasting side as a Production Executive at Corus Entertainment. She has worked in a creative capacity in a broad range of television genres. Select writing and producing credits include: \u003ci\u003eGoosebumps\u003c/i\u003e (YTV), \u003ci\u003eThe Saddle Club\u003c/i\u003e (YTV), \u003ci\u003eReal Kids Real Adventures\u003c/i\u003e (YTV), \u003ci\u003eDrop the Beat\u003c/i\u003e (CBC), \u003ci\u003ePower Play\u003c/i\u003e (CTV), \u003ci\u003eTrain 48\u003c/i\u003e (Global), \u003ci\u003eMajumder Manor\u003c/i\u003e (W Network) and \u003ci\u003eTo Catch a Killer\u003c/i\u003e (OWN). "
+        },
+        "gsx$photoprefix": { "$t": "rhonda" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cyevm"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Martha" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Sepulveda, role: Producer / Development Manager, email: martha@sinkingship.ca, description: Martha started as an intern at Sinking Ship in 2011 and quickly rose through the ranks as Assistant Production Coordinator, Associate Producer, Creative Producer and finally Producer. She has worked on \u003ci\u003eGiver\u003c/i\u003e, \u003ci\u003eRoll Play\u003c/i\u003e, \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e and \u003ci\u003eChirp\u003c/i\u003e as well as producing various pilots. As Development Manager Martha also evaluates outside show pitches. Martha's dog, Lila, is also a popular member of the office staff and attends all meetings when she isn't busy playing catch., photoprefix: martha"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cyevm"
+          }
+        ],
+        "gsx$name": { "$t": "Martha" },
+        "gsx$lastname": { "$t": "Sepulveda" },
+        "gsx$role": { "$t": "Producer / Development Manager" },
+        "gsx$email": { "$t": "martha@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Martha started as an intern at Sinking Ship in 2011 and quickly rose through the ranks as Assistant Production Coordinator, Associate Producer, Creative Producer and finally Producer. She has worked on \u003ci\u003eGiver\u003c/i\u003e, \u003ci\u003eRoll Play\u003c/i\u003e, \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e and \u003ci\u003eChirp\u003c/i\u003e as well as producing various pilots. As Development Manager Martha also evaluates outside show pitches. Martha's dog, Lila, is also a popular member of the office staff and attends all meetings when she isn't busy playing catch."
+        },
+        "gsx$photoprefix": { "$t": "martha" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cztg3"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Jain" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Dickson, role: Producer - Chirp, email: jain@sinkingship.ca, team: Production, description: Jain started her television career at TVO, as the director for TVO Kids. For Decode Entertainment, she was Line Producer for \u003ci\u003eThe Hoobs\u003c/i\u003e, with the Jim Henson Company. Jain produced \u003ci\u003eThe Outlet\u003c/i\u003e, for CBC and was Production Supervisor with Sinking Ship for \u003ci\u003eThe Jungle Room\u003c/i\u003e and \u003ci\u003eThe Ocean Room\u003c/i\u003e. She was a producer for Radical Sheep’s award winning animated series, \u003ci\u003eStella and Sam\u003c/i\u003e, for Family Channel/Playhouse Disney, and is currently Producer of \u003ci\u003eChirp\u003c/i\u003e with Sinking Ship., photoprefix: jain"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cztg3"
+          }
+        ],
+        "gsx$name": { "$t": "Jain" },
+        "gsx$lastname": { "$t": "Dickson" },
+        "gsx$role": { "$t": "Producer - Chirp" },
+        "gsx$email": { "$t": "jain@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Jain started her television career at TVO, as the director for TVO Kids. For Decode Entertainment, she was Line Producer for \u003ci\u003eThe Hoobs\u003c/i\u003e, with the Jim Henson Company. Jain produced \u003ci\u003eThe Outlet\u003c/i\u003e, for CBC and was Production Supervisor with Sinking Ship for \u003ci\u003eThe Jungle Room\u003c/i\u003e and \u003ci\u003eThe Ocean Room\u003c/i\u003e. She was a producer for Radical Sheep’s award winning animated series, \u003ci\u003eStella and Sam\u003c/i\u003e, for Family Channel/Playhouse Disney, and is currently Producer of \u003ci\u003eChirp\u003c/i\u003e with Sinking Ship."
+        },
+        "gsx$photoprefix": { "$t": "jain" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d180g"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Rennata" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: López, role: Producer - \u003ci\u003eGiver\u003c/i\u003e (2014), email: rennata@sinkingship.ca, team: Production, teammember: yes, description: Rennata Lopez is proud to be Producer for Sinking Ship’s playground make-over show \u003ci\u003eGiver\u003c/i\u003e. Graduating\nin 2005 from Seneca at York’s Broadcast Journalism program, Rennata started her career in lifestyle television at Alliance Atlantis.  She went on to work on many lifestyle/reality shows building a successful career in casting, writing and story producing. Besides producing, Rennata is known at Sinking Ship for her skills at brewing pots of coffee, working the magic of Google Calendar and not being Georgina.\n, photoprefix: rennata"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d180g"
+          }
+        ],
+        "gsx$name": { "$t": "Rennata" },
+        "gsx$lastname": { "$t": "López" },
+        "gsx$role": {
+          "$t": "Producer - \u003ci\u003eGiver\u003c/i\u003e (2014)"
+        },
+        "gsx$email": { "$t": "rennata@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "yes" },
+        "gsx$description": {
+          "$t": "Rennata Lopez is proud to be Producer for Sinking Ship’s playground make-over show \u003ci\u003eGiver\u003c/i\u003e. Graduating\nin 2005 from Seneca at York’s Broadcast Journalism program, Rennata started her career in lifestyle television at Alliance Atlantis.  She went on to work on many lifestyle/reality shows building a successful career in casting, writing and story producing. Besides producing, Rennata is known at Sinking Ship for her skills at brewing pots of coffee, working the magic of Google Calendar and not being Georgina.\n"
+        },
+        "gsx$photoprefix": { "$t": "rennata" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d2mkx"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Carly" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Weiner, role: Office Manager, email: carly@sinkingship.ca, description: Carly boarded the Ship in 2008. Besides managing the office, she enjoys a variety of tasks, including Casting, and Party Planner Extraordinaire. Prior to Sinking Ship, she graduated from Ryerson’s Radio and Television Arts program in 2002 and worked production in film, TV and commercials. Sherman, her furry companion, is the Ship's ‘Ambassador of Goodwill.' Sherman is an excellent employee as he gets paid in biscuits and affection. On leave with her first baby, Carly will return in Fall 2014., photoprefix: carly"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d2mkx"
+          }
+        ],
+        "gsx$name": { "$t": "Carly" },
+        "gsx$lastname": { "$t": "Weiner" },
+        "gsx$role": { "$t": "Office Manager" },
+        "gsx$email": { "$t": "carly@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Carly boarded the Ship in 2008. Besides managing the office, she enjoys a variety of tasks, including Casting, and Party Planner Extraordinaire. Prior to Sinking Ship, she graduated from Ryerson’s Radio and Television Arts program in 2002 and worked production in film, TV and commercials. Sherman, her furry companion, is the Ship's ‘Ambassador of Goodwill.' Sherman is an excellent employee as he gets paid in biscuits and affection. On leave with her first baby, Carly will return in Fall 2014."
+        },
+        "gsx$photoprefix": { "$t": "carly" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cssly"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Lynn" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Chadwick, role: VP, Sales \u0026 Distribution, email: lynn@sinkingship.ca, team: Corporate, description: Lynn is responsible for the international sales team, managing all aspects of global content placement worldwide. Prior to Sinking Ship, she oversaw acquisition of multi-genre program content across Corus Entertainment's Pay TV and Specialty channels including HBO Canada, YTV and Treehouse. Before that, at Nelvana Enterprises, Lynn managed first the European, then the global sales team ensuring wide placement of Nelvana’s extensive kids programming library including \u003ci\u003eFranklin, Babar\u003c/i\u003e and \u003ci\u003eBeyblade\u003c/i\u003e, with TV broadcasters and digital distributors worldwide., photoprefix: lynn"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cssly"
+          }
+        ],
+        "gsx$name": { "$t": "Lynn" },
+        "gsx$lastname": { "$t": "Chadwick" },
+        "gsx$role": { "$t": "VP, Sales \u0026 Distribution" },
+        "gsx$email": { "$t": "lynn@sinkingship.ca" },
+        "gsx$team": { "$t": "Corporate" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Lynn is responsible for the international sales team, managing all aspects of global content placement worldwide. Prior to Sinking Ship, she oversaw acquisition of multi-genre program content across Corus Entertainment's Pay TV and Specialty channels including HBO Canada, YTV and Treehouse. Before that, at Nelvana Enterprises, Lynn managed first the European, then the global sales team ensuring wide placement of Nelvana’s extensive kids programming library including \u003ci\u003eFranklin, Babar\u003c/i\u003e and \u003ci\u003eBeyblade\u003c/i\u003e, with TV broadcasters and digital distributors worldwide."
+        },
+        "gsx$photoprefix": { "$t": "lynn" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cu76f"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Laura" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Battiston, role: Director, Business Affairs, email: laura@sinkingship.ca, team: Corporate, description: With more than 20 years in the Canadian media industry, Laura has extensive experience in structuring financing and administering funding regulations, as well as negotiating license and distribution deals. At Sinking Ship Laura is responsible for all facets of business, including negotiation and monitoring of financing, distribution and talent agreements as well as project cash flows and funding applications. Prior to Sinking Ship, Laura worked at the Ontario Media Development Corporation, the Canada Media Fund, Alliance Atlantis and SFA Productions. , photoprefix: laura"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cu76f"
+          }
+        ],
+        "gsx$name": { "$t": "Laura" },
+        "gsx$lastname": { "$t": "Battiston" },
+        "gsx$role": { "$t": "Director, Business Affairs" },
+        "gsx$email": { "$t": "laura@sinkingship.ca" },
+        "gsx$team": { "$t": "Corporate" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "With more than 20 years in the Canadian media industry, Laura has extensive experience in structuring financing and administering funding regulations, as well as negotiating license and distribution deals. At Sinking Ship Laura is responsible for all facets of business, including negotiation and monitoring of financing, distribution and talent agreements as well as project cash flows and funding applications. Prior to Sinking Ship, Laura worked at the Ontario Media Development Corporation, the Canada Media Fund, Alliance Atlantis and SFA Productions. "
+        },
+        "gsx$photoprefix": { "$t": "laura" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cvlqs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Sherri" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Cohen, role: Corporate Accountant, email: sherri@sinkingship.ca, description: Sherri is head of the Accounting Department, overseeing all day-to-day operations as well as final production finances. She also works closely with Business Affairs on tax credits and audits. With 20 years experience in accounting, Sherri has worked in the film, food and fashion sectors as well as stints in virtual reality and closed captioning. In her spare time she loves travelling and food, but always keeps meticulous account of her expenses. , photoprefix: sherri"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cvlqs"
+          }
+        ],
+        "gsx$name": { "$t": "Sherri" },
+        "gsx$lastname": { "$t": "Cohen" },
+        "gsx$role": { "$t": "Corporate Accountant" },
+        "gsx$email": { "$t": "sherri@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Sherri is head of the Accounting Department, overseeing all day-to-day operations as well as final production finances. She also works closely with Business Affairs on tax credits and audits. With 20 years experience in accounting, Sherri has worked in the film, food and fashion sectors as well as stints in virtual reality and closed captioning. In her spare time she loves travelling and food, but always keeps meticulous account of her expenses. "
+        },
+        "gsx$photoprefix": { "$t": "sherri" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cx0b9"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Bobby" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Jain, role: IT Manager / Systems Administrator, email: bobby@sinkingship.ca, team: Corporate, description: Bobby has been working in TV production as an IT Manager and Systems Administrator for 5 years.  He specialises in render farms, and high speed, high capacity storage for the media and entertainment industry.  With that expertise, he has been able to help build two production studios from 30 employees to over 100, which included project management of the designing, building and configuration of office space and technology infrastructure. Prior to Sinking Ship, he worked at March Entertainment. In his spare time he works on his custom-built electric motorcycle.\n, photoprefix: bobby"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/cx0b9"
+          }
+        ],
+        "gsx$name": { "$t": "Bobby" },
+        "gsx$lastname": { "$t": "Jain" },
+        "gsx$role": { "$t": "IT Manager / Systems Administrator" },
+        "gsx$email": { "$t": "bobby@sinkingship.ca" },
+        "gsx$team": { "$t": "Corporate" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Bobby has been working in TV production as an IT Manager and Systems Administrator for 5 years.  He specialises in render farms, and high speed, high capacity storage for the media and entertainment industry.  With that expertise, he has been able to help build two production studios from 30 employees to over 100, which included project management of the designing, building and configuration of office space and technology infrastructure. Prior to Sinking Ship, he worked at March Entertainment. In his spare time he works on his custom-built electric motorcycle.\n"
+        },
+        "gsx$photoprefix": { "$t": "bobby" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d9ney"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Ronald" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Ruslim, role: Project Manager, Interactive , email: ronald@sinkingship.ca, team: Interactive, description: With over 10 years’ experience as Head of Interactive / Project Manager, Ronald consults on the entire digital development process from inception to execution. As the primary client advocate, Ronald ensures that the expectations of all Sinking Ship stakeholders are consistently surpassed. A graduate of University of Waterloo’s Computer Science program as well as holding a MBA from the Schulich School of Business, he has established himself as a results-driven technical leader able to build complex technical applications within tight timeframes., photoprefix: ron"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d9ney"
+          }
+        ],
+        "gsx$name": { "$t": "Ronald" },
+        "gsx$lastname": { "$t": "Ruslim" },
+        "gsx$role": { "$t": "Project Manager, Interactive " },
+        "gsx$email": { "$t": "ronald@sinkingship.ca" },
+        "gsx$team": { "$t": "Interactive" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "With over 10 years’ experience as Head of Interactive / Project Manager, Ronald consults on the entire digital development process from inception to execution. As the primary client advocate, Ronald ensures that the expectations of all Sinking Ship stakeholders are consistently surpassed. A graduate of University of Waterloo’s Computer Science program as well as holding a MBA from the Schulich School of Business, he has established himself as a results-driven technical leader able to build complex technical applications within tight timeframes."
+        },
+        "gsx$photoprefix": { "$t": "ron" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/db1zf"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Gavin" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Friesen, role: Creative Director, Interactive, email: gavin@sinkingship.ca, team: Interactive, description: Gavin is an award-winning digital creative director with over 14 years experience creating interactive content for kids and parents. Prior to joining Sinking Ship, he was Director of Interactive for Teletoon, overseeing digital strategy for all network websites, including the launch of Cartoon Network Canada. Gavin has also held Creative Director positions at Corus Entertainment and Earth Rangers. His passion is creating fun, innovative experiences that connect with younger audiences through the use of games, video and mobile., photoprefix: gavin"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/db1zf"
+          }
+        ],
+        "gsx$name": { "$t": "Gavin" },
+        "gsx$lastname": { "$t": "Friesen" },
+        "gsx$role": { "$t": "Creative Director, Interactive" },
+        "gsx$email": { "$t": "gavin@sinkingship.ca" },
+        "gsx$team": { "$t": "Interactive" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Gavin is an award-winning digital creative director with over 14 years experience creating interactive content for kids and parents. Prior to joining Sinking Ship, he was Director of Interactive for Teletoon, overseeing digital strategy for all network websites, including the launch of Cartoon Network Canada. Gavin has also held Creative Director positions at Corus Entertainment and Earth Rangers. His passion is creating fun, innovative experiences that connect with younger audiences through the use of games, video and mobile."
+        },
+        "gsx$photoprefix": { "$t": "gavin" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dcgjs"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Christine" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Toye, role: Costume Designer, email: christine@sinkingship.ca, team: Production, description: Christine heads the Costume Department at Sinking Ship and is Costume Designer for \u003ci\u003eOdd Squad\u003c/i\u003e, \u003ci\u003e Annedroids\u003c/i\u003e (Seasons 1 \u0026 2)  and \u003ci\u003e Dino Dan\u003c/i\u003e (Seasons 3 \u0026 4). She was also the stylist on  \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e. Prior to Sinking Ship, Christine worked extensively in theatre all over Ontario either as Head of Wardrobe or Costume Designer. Additionally, she has a family connection to Sinking Ship; her kitten, Edith, was born on the set of  \u003ci\u003eAnnedroids\u003c/i\u003e, photoprefix: christine"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dcgjs"
+          }
+        ],
+        "gsx$name": { "$t": "Christine" },
+        "gsx$lastname": { "$t": "Toye" },
+        "gsx$role": { "$t": "Costume Designer" },
+        "gsx$email": { "$t": "christine@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Christine heads the Costume Department at Sinking Ship and is Costume Designer for \u003ci\u003eOdd Squad\u003c/i\u003e, \u003ci\u003e Annedroids\u003c/i\u003e (Seasons 1 \u0026 2)  and \u003ci\u003e Dino Dan\u003c/i\u003e (Seasons 3 \u0026 4). She was also the stylist on  \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e. Prior to Sinking Ship, Christine worked extensively in theatre all over Ontario either as Head of Wardrobe or Costume Designer. Additionally, she has a family connection to Sinking Ship; her kitten, Edith, was born on the set of  \u003ci\u003eAnnedroids\u003c/i\u003e"
+        },
+        "gsx$photoprefix": { "$t": "christine" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ddv49"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Kevin " },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Schneider, role: Post Production Supervisor, email: kevin@sinkingship.ca, team: Production, description: Kevin has been working in the post production field for over 12 years on various projects and can usually be found wearing a plaid shirt. Previous to the Ship, he worked as Post Super at WestWind Pictures and an adventure guide in Alaska. Kevin has viewed or worked on such groundbreaking shows as \u003ci\u003eThe Wizard of Oz\u003c/i\u003e, \u003ci\u003eStar Trek II: The Wrath of Khan\u003c/i\u003e, \u003ci\u003eLabyrinth\u003c/i\u003e, \u003ci\u003eDesigner Guys\u003c/i\u003e, and \u003ci\u003eLittle Mosque on the Prairie\u003c/i\u003e., photoprefix: kevin"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/ddv49"
+          }
+        ],
+        "gsx$name": { "$t": "Kevin " },
+        "gsx$lastname": { "$t": "Schneider" },
+        "gsx$role": { "$t": "Post Production Supervisor" },
+        "gsx$email": { "$t": "kevin@sinkingship.ca" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Kevin has been working in the post production field for over 12 years on various projects and can usually be found wearing a plaid shirt. Previous to the Ship, he worked as Post Super at WestWind Pictures and an adventure guide in Alaska. Kevin has viewed or worked on such groundbreaking shows as \u003ci\u003eThe Wizard of Oz\u003c/i\u003e, \u003ci\u003eStar Trek II: The Wrath of Khan\u003c/i\u003e, \u003ci\u003eLabyrinth\u003c/i\u003e, \u003ci\u003eDesigner Guys\u003c/i\u003e, and \u003ci\u003eLittle Mosque on the Prairie\u003c/i\u003e."
+        },
+        "gsx$photoprefix": { "$t": "kevin" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d415a"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Filomena " },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Guarasci, role: Supervising Producer, email: fil@sinkingship.ca, description: Filomena has a great deal of experience on popular TV shows, ranging from \u003ci\u003eWind at my Back\u003c/i\u003e, \u003ci\u003eStrange Days at Blake Holsey High\u003c/i\u003e, \u003ci\u003eNaturally Sadie\u003c/i\u003e, and \u003ci\u003eMy Babysitter’s a Vampire\u003c/i\u003e.  Starting at Sinking Ship in 2008, she worked every episode of \u003ci\u003eDino Dan\u003c/i\u003e and \u003ci\u003eDino Dan: Trek’s Adventures\u003c/i\u003e as the only 1st Assistant Director. In 2013, Filomena started on\u003ci\u003e Annedroids\u003c/i\u003e I as an Assistant Director and completed shooting \u003ci\u003eAnnedroids\u003c/i\u003e II as the Supervising Producer., photoprefix: filomena"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d415a"
+          }
+        ],
+        "gsx$name": { "$t": "Filomena " },
+        "gsx$lastname": { "$t": "Guarasci" },
+        "gsx$role": { "$t": "Supervising Producer" },
+        "gsx$email": { "$t": "fil@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Filomena has a great deal of experience on popular TV shows, ranging from \u003ci\u003eWind at my Back\u003c/i\u003e, \u003ci\u003eStrange Days at Blake Holsey High\u003c/i\u003e, \u003ci\u003eNaturally Sadie\u003c/i\u003e, and \u003ci\u003eMy Babysitter’s a Vampire\u003c/i\u003e.  Starting at Sinking Ship in 2008, she worked every episode of \u003ci\u003eDino Dan\u003c/i\u003e and \u003ci\u003eDino Dan: Trek’s Adventures\u003c/i\u003e as the only 1st Assistant Director. In 2013, Filomena started on\u003ci\u003e Annedroids\u003c/i\u003e I as an Assistant Director and completed shooting \u003ci\u003eAnnedroids\u003c/i\u003e II as the Supervising Producer."
+        },
+        "gsx$photoprefix": { "$t": "filomena" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d5fpr"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "David " },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Purkiss, role: Operations Manager, email: davidpurkiss@sinkingship.ca, team: Corporate, description: David came on as Operations Manager at Sinking Ship in Nov. 2013. He spent the previous year living in the UK, and travelling with his wife. He previously worked with Sinking Ship on \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e, \u003ci\u003eGiver\u003c/i\u003e, and on the \u003ci\u003eRoll Play Live Tour\u003c/i\u003e, as well as doing stints on feature films, sports productions, news and reality/lifestyle shows. , photoprefix: david"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d5fpr"
+          }
+        ],
+        "gsx$name": { "$t": "David " },
+        "gsx$lastname": { "$t": "Purkiss" },
+        "gsx$role": { "$t": "Operations Manager" },
+        "gsx$email": { "$t": "davidpurkiss@sinkingship.ca" },
+        "gsx$team": { "$t": "Corporate" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "David came on as Operations Manager at Sinking Ship in Nov. 2013. He spent the previous year living in the UK, and travelling with his wife. He previously worked with Sinking Ship on \u003ci\u003eThis is Scarlett and Isaiah\u003c/i\u003e, \u003ci\u003eGiver\u003c/i\u003e, and on the \u003ci\u003eRoll Play Live Tour\u003c/i\u003e, as well as doing stints on feature films, sports productions, news and reality/lifestyle shows. "
+        },
+        "gsx$photoprefix": { "$t": "david" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d6ua4"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Szonja" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Jakovits, role: Production Manager, Annedroids, email: sj@sinkingship.ca, description: Szonja has worked extensively in film as Producer, Associate Producer, Production Manager, Production Coordinator, VFX Coordinator and 2nd Assistant Director. Szonja has been involved in mounting 2 full seasons of \u003ci\u003eWhat’s Up, Warthogs\u003c/i\u003e and Anthony Zuiker’s \u003ci\u003eCybergeddon\u003c/i\u003e, as well as an intriguing Johnny Cash docudrama called \u003ci\u003eMy Father and the Man In Black\u003c/i\u003e which has won numerous awards and distinctions around the world. She also worked extensively in Hungary on such films as \u003ci\u003eEvita\u003c/i\u003e, \u003ci\u003eSpy\nGame\u003c/i\u003e  and \u003ci\u003eI Spy\u003c/i\u003e.\n, photoprefix: szonja"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d6ua4"
+          }
+        ],
+        "gsx$name": { "$t": "Szonja" },
+        "gsx$lastname": { "$t": "Jakovits" },
+        "gsx$role": { "$t": "Production Manager, Annedroids" },
+        "gsx$email": { "$t": "sj@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Szonja has worked extensively in film as Producer, Associate Producer, Production Manager, Production Coordinator, VFX Coordinator and 2nd Assistant Director. Szonja has been involved in mounting 2 full seasons of \u003ci\u003eWhat’s Up, Warthogs\u003c/i\u003e and Anthony Zuiker’s \u003ci\u003eCybergeddon\u003c/i\u003e, as well as an intriguing Johnny Cash docudrama called \u003ci\u003eMy Father and the Man In Black\u003c/i\u003e which has won numerous awards and distinctions around the world. She also worked extensively in Hungary on such films as \u003ci\u003eEvita\u003c/i\u003e, \u003ci\u003eSpy\nGame\u003c/i\u003e  and \u003ci\u003eI Spy\u003c/i\u003e.\n"
+        },
+        "gsx$photoprefix": { "$t": "szonja" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d88ul"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Tim" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: McKeon, role: Odd Squad – Co-creator/Executive Producer/Writer, team: Production, teammember: yes, description: Tim recently re-located from Los Angeles to collaborate with Sinking Ship on \u003ci\u003eOdd Squad\u003c/i\u003e. His writing credits include shows with Disney Channel, Disney Junior, Cartoon Network, Nickelodeon, Nick Jr., Universal Studios, and Sesame Workshop. In 2009 he won a Primetime Emmy for his writing on \u003ci\u003eFoster’s Home for Imaginary Friends\u003c/i\u003e and was nominated for a 2010 Primetime Emmy for his writing on \u003ci\u003eAdventure Time\u003c/i\u003e.  In his free time, Tim enjoys baking pies and writing about himself in the 3rd person.\n, photoprefix: tim"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/d88ul"
+          }
+        ],
+        "gsx$name": { "$t": "Tim" },
+        "gsx$lastname": { "$t": "McKeon" },
+        "gsx$role": {
+          "$t": "Odd Squad – Co-creator/Executive Producer/Writer"
+        },
+        "gsx$email": { "$t": "" },
+        "gsx$team": { "$t": "Production" },
+        "gsx$teammember": { "$t": "yes" },
+        "gsx$description": {
+          "$t": "Tim recently re-located from Los Angeles to collaborate with Sinking Ship on \u003ci\u003eOdd Squad\u003c/i\u003e. His writing credits include shows with Disney Channel, Disney Junior, Cartoon Network, Nickelodeon, Nick Jr., Universal Studios, and Sesame Workshop. In 2009 he won a Primetime Emmy for his writing on \u003ci\u003eFoster’s Home for Imaginary Friends\u003c/i\u003e and was nominated for a 2010 Primetime Emmy for his writing on \u003ci\u003eAdventure Time\u003c/i\u003e.  In his free time, Tim enjoys baking pies and writing about himself in the 3rd person.\n"
+        },
+        "gsx$photoprefix": { "$t": "tim" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dkvya"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Elizabeth " },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Holmes, role: Compositing Supervisor, email: elizabeth@sinkingship.ca, description: Elizabeth heads the department that combines all the different pieces of a shot – CGI, filmed and practical elements – to complete a scene and tell the story. The compositing team makes beautiful pictures and adds pizzazz to every frame they touch. Elizabeth's credits include \u003ci\u003eTron\u003c/i\u003e, \u003ci\u003eUnderworld Awakening\u003c/i\u003e, \u003ci\u003eBreaking Dawn\u003c/i\u003e, \u003ci\u003eThe Amazing Spiderman\u003c/i\u003e and \u003ci\u003eGame of Thrones\u003c/i\u003e. Out of all the shows she's worked, Elizabeth is particularly excited about working on a show about a girl genius who builds robots., photoprefix: elizabeth"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dkvya"
+          }
+        ],
+        "gsx$name": { "$t": "Elizabeth " },
+        "gsx$lastname": { "$t": "Holmes" },
+        "gsx$role": { "$t": "Compositing Supervisor" },
+        "gsx$email": { "$t": "elizabeth@sinkingship.ca" },
+        "gsx$team": { "$t": "" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "Elizabeth heads the department that combines all the different pieces of a shot – CGI, filmed and practical elements – to complete a scene and tell the story. The compositing team makes beautiful pictures and adds pizzazz to every frame they touch. Elizabeth's credits include \u003ci\u003eTron\u003c/i\u003e, \u003ci\u003eUnderworld Awakening\u003c/i\u003e, \u003ci\u003eBreaking Dawn\u003c/i\u003e, \u003ci\u003eThe Amazing Spiderman\u003c/i\u003e and \u003ci\u003eGame of Thrones\u003c/i\u003e. Out of all the shows she's worked, Elizabeth is particularly excited about working on a show about a girl genius who builds robots."
+        },
+        "gsx$photoprefix": { "$t": "elizabeth" }
+      },
+      {
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dmair"
+        },
+        "updated": { "$t": "2016-11-07T20:10:28.283Z" },
+        "category": [
+          {
+            "scheme": "http://schemas.google.com/spreadsheets/2006",
+            "term": "http://schemas.google.com/spreadsheets/2006#list"
+          }
+        ],
+        "title": { "type": "text", "$t": "Ila" },
+        "content": {
+          "type": "text",
+          "$t": "lastname: Soleimani, role: CG Supervisor, email: ila@sinkingship.ca, team: Animation, description: In 1988 Ila saw a few seconds of the Pixar short \u003ci\u003eTin Toy\u003c/i\u003e and his life was forever changed. After studying fine arts and graphic design, he began his\nanimation career in 1993. Ila's collaboration with Sinking Ship Entertainment goes back to 2008 when he was Animation Director at Optix Digital Pictures,\nwhere he worked on the first two seasons of \u003ci\u003eDino Dan\u003c/i\u003e. As CG Supervisor, he helped to build Sinking Ship's animation studio in 2012 and has been a proud member of the team ever since., photoprefix: ila"
+        },
+        "link": [
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://spreadsheets.google.com/feeds/list/1AkBCaEDzV8dpHvcOxFqpi8QHWPg1P6ajDt5m2vIykoo/odb/public/values/dmair"
+          }
+        ],
+        "gsx$name": { "$t": "Ila" },
+        "gsx$lastname": { "$t": "Soleimani" },
+        "gsx$role": { "$t": "CG Supervisor" },
+        "gsx$email": { "$t": "ila@sinkingship.ca" },
+        "gsx$team": { "$t": "Animation" },
+        "gsx$teammember": { "$t": "" },
+        "gsx$description": {
+          "$t": "In 1988 Ila saw a few seconds of the Pixar short \u003ci\u003eTin Toy\u003c/i\u003e and his life was forever changed. After studying fine arts and graphic design, he began his\nanimation career in 1993. Ila's collaboration with Sinking Ship Entertainment goes back to 2008 when he was Animation Director at Optix Digital Pictures,\nwhere he worked on the first two seasons of \u003ci\u003eDino Dan\u003c/i\u003e. As CG Supervisor, he helped to build Sinking Ship's animation studio in 2012 and has been a proud member of the team ever since."
+        },
+        "gsx$photoprefix": { "$t": "ila" }
+      }
+    ]
+  }
+}
